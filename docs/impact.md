@@ -6,14 +6,19 @@
 OpenStreetMap’s unique value in creating high quality data for sustainable development has been proven by multiple initiatives all around the world: 
 
 <div style="float: right; margin: 5px 0 20px 20px; width: 350px;">
+
+  <a href="https://map.vida.place/public/workspace/a6a89f8a-f472-45b0-8674-fcf6d7b4c7e3" target="_blank">
+  <img src="../images/impact/DRE-pakistan.jpg" class="img-border" style="width: 100%;"> </a>
+  <figcaption class="image-caption">58 countries energy planning directly depend on OpenStreetMap <a href="https://map.vida.place/public/workspace/114d1c69-eb81-4e49-8434-0f038854f4a0"> like in this case Pakistan</a>. Click to enlarge.</figcaption>
+
   <a href="https://pypsa-earth.readthedocs.io/en/latest/index.html" target="_blank">
   <img src="../images/impact/pypsa-earth-india.jpg" class="img-border" style="width: 100%;"> </a>
   <figcaption class="image-caption">The PyPSA-Earth open-source energy system model uses OpenStreetMap data to study the future of energy around the world. Click to enlarge.</figcaption>
 </div> 
 
-1. The [Humanitarian OpenStreetMap Team](https://www.hotosm.org/) provides high-quality, open geospatial data to inform decision-makers during early disaster response. More than 419,000 volunteer mappers have contributed to this initiative. The platform allows collaboration between multiple organizations, like satellite imaging providers like Maxar and humanitarian agencies such as the Red Cross. This collaborative platform ensures that critical, life-saving decisions are grounded in traceable and verifiable data. Especially as the frequency of extreme weather events increases, accurate electrical grid data [plays a key role in disaster response at the Humanitarian OpenStreetMap Team](https://github.com/USAFORUNHCRhive/turkana-grid-mapping).
+1. The [Global Electrification Platform](https://electrifynow.energydata.info/) and [Distributed Renewable Energy Atlas](https://dre.energydata.info/), developed and used by the World Bank, are used for planning electrification and expansion of renewable energy in rural areas across 58 countries. Using OpenStreetMap's transmission lines, roads, buildings, and settlements, it helps identify off-grid populations and informs planning for both grid and off-grid electrification strategies. gep-onsset, the Open Source Software behind Global Electrification Platform, [relies heavily on electrical grid data of OpenStreetMap](https://gep-onsset.readthedocs.io/en/latest/GIS%20data%20collection.html#infrastructure).
 
-1. The [Global Electrification Platform](https://electrifynow.energydata.info/), developed by the World Bank, estimates electrification in rural areas across 58 countries. Using OpenStreetMap data to map roads, buildings, and settlements, it helps identify off-grid populations and informs planning for both grid and off-grid electrification strategies.
+1. The [Humanitarian OpenStreetMap Team](https://www.hotosm.org/) provides high-quality, open geospatial data to inform decision-makers during early disaster response. More than 419,000 volunteer mappers have contributed to this initiative. The platform allows collaboration between multiple organizations, like satellite imaging providers like Maxar and humanitarian agencies such as the Red Cross. This collaborative platform ensures that critical, life-saving decisions are grounded in traceable and verifiable data. Especially as the frequency of extreme weather events increases, accurate electrical grid data [plays a key role in disaster response at the Humanitarian OpenStreetMap Team](https://github.com/USAFORUNHCRhive/turkana-grid-mapping).
 
 1. The World Bank's [EnergyData.info](https://energydata.info/dataset/?q=OpenStreetMap) website hosts over 1,072 energy-related datasets, 533 of which directly depend on OpenStreetMap data. The World Bank uses this data to finance and support energy infrastructure projects in low- and middle-income countries, including expanding energy access, modernizing power systems, and promoting clean energy solutions. This data is been used to create report for Decision Makers such as [Mini Grids for Half a Billion People](https://www.esmap.org/sites/default/files/esmap-files/Mini%20Grids%20for%20Half%20a%20Billion%20People%20-%20OKR%20Download%20Version_compressed_MKA.pdf).
 
