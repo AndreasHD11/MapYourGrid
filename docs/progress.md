@@ -95,7 +95,7 @@ We contribute to mapping the grid all around the world. Discover our main contri
   </div>
 
   <div class="progress-item">
-    <label>Total Estimated Global Power Capacity added by mappers of the MapYourGrid organisations:</label>
+    <label>Total Estimated Global Power Capacity added/edited by mappers of the MapYourGrid organisations:</label>
     <div class="progress">
       <div class="progress-bar" id="plant-capacity-bar" style="background-color: #17a2b8;"></div>
     </div>
@@ -105,7 +105,7 @@ We contribute to mapping the grid all around the world. Discover our main contri
   </div>
 
   <div class="progress-item">
-    <label>Total estimated substations added by mappers of the MapYourGrid organisations:</label>
+    <label>Total estimated substations added/edited by mappers of the MapYourGrid organisations:</label>
     <div class="progress">
       <div class="progress-bar" id="substation-bar" style="background-color: #17a2b8;"></div>
     </div>
