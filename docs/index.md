@@ -109,6 +109,11 @@ image: images/website/mapyourgrid-preview.jpg
       <div class="stat-label">Power Lines in km</div>
     </div>
   </div>
+  <div>
+    <p style="font-size: 1.1rem;color: #777;text-align: center; font-style: italic;">
+      <a href="progress">Find out more about our progress</a>
+    </p>
+  </div>
 </div>
 
 <div class="who-we-are-section">
