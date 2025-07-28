@@ -294,31 +294,31 @@ Follow the steps below to help improve rejected power plants in OSM:
 
 ## <div class="stradegy-header">Quality Assurance and Validation</div>
 
-When properly curated and validated, crowdsourced geographic data can rival the quality of highly automated datasets. MapYourGrid builds on this foundation to ensure the highest quality standards for mapping global electrical infrastructure.
+When properly curated and validated, crowdsourced geographic data can rival the quality of highly automated datasets. MapYourGrid builds on this community foundation to ensure the highest quality standards for mapping global electrical infrastructure.
 
-At the core of MapYourGrid’s validation approach are the [OpenStreetMap principles of verifiability](https://wiki.openstreetmap.org/wiki/Verifiability):
+MapYourGrid's validation approach is based on the [verifiability principles of OpenStreetMap](https://wiki.openstreetmap.org/wiki/Verifiability):
 
 > **"At the core, "verifiability" is that everything you do can be demonstrated to be true or false by other mappers."**
 
-This principle applies to every aspect of mapping: the physical presence of infrastructure, the accuracy of geometries, and the clarity of tags and values. A tag and geometry are considered verifiable only if another mapper, with the same inputs, would record them identically. This objective, evidence-based method is what makes OSM a trusted source for academic research, governmental planning, and industrial analysis.
+This principle applies to every aspect of mapping: the physical presence of infrastructure, the accuracy of geometries, and the clarity of tags and values. A tag and geometry are considered verifiable only if another mapper, with the same inputs, would record them identically. This objective, evidence-based method is what makes OpenStreetMap a trusted source for academic research, governmental planning, and industrial analysis.
 
 MapYourGrid layers additional tools, methodologies, and community-driven feedback mechanisms on top of this foundation to ensure data accuracy, completeness, and reliability. Here's how we do it:
 
 
 0. **Professional Training, Standards and Support in Electrical Grid Mapping**
 
-    The MapYourGrid initiative recognizes that high-quality data begins with knowledgeable contributors. We invest in building mapper capacity through structured training, professional-grade documentation, and standards aligned with both OSM norms and the energy sector’s expectations. We support decentralized data stewardship by empowering local mappers to guide regional efforts, ensuring that data remains both accurate and contextually relevant over time.
+    The MapYourGrid initiative recognizes that high-quality data begins with knowledgeable contributors. We invest in building mapper capacity through structured training, professional-grade documentation, and standards aligned with both OpenStreetMap norms and the energy sector’s expectations. We support decentralized data stewardship by empowering local mappers to guide regional efforts, ensuring that data remains both accurate and contextually relevant over time.
 
 1. **User Feedback and Crowdsourced Issue Reporting**
 
-    We encourage anyone using [Open Infrastructure Map](https://openinframap.org/#2/26/12) to report issues using the **#MapYourGrid** hashtag. Notes can be added without an account, lowering the barrier to participation. These community-sourced observations help identify outdated, misclassified, or missing infrastructure — making user feedback a cornerstone of validation.
+    We encourage anyone using [Open Infrastructure Map](https://openinframap.org/#2/26/12) to report issues using the **#MapYourGrid** hashtag. Notes can be added without an account, lowering the barrier to participation. These community-sourced observations help identify outdated, misclassified, or missing infrastructure. This is making user feedback a cornerstone of validation.
 
 
 2. **Pre-Upload Error Detection with JOSM Validator**
 
-    Before data is uploaded to OSM, it is automatically scanned using the [JOSM Validator](https://josm.openstreetmap.de/wiki/Help/Dialog/Validator). This tool checks for common mapping errors such as: Illogical tag combinations, Unusual geometries (e.g., excessively long spans between power towers) or Incomplete or deprecated data.
+    Before data is uploaded to OpenStreetMap, it is automatically scanned using the [JOSM Validator](https://josm.openstreetmap.de/wiki/Help/Dialog/Validator). This tool checks for common mapping errors such as: Illogical tag combinations, Unusual geometries (e.g., excessively long spans between power towers) or incomplete or deprecated data.
 
-    Warnings are prominently flagged, and mappers are discouraged from uploading until they are resolved — promoting a high standard of data hygiene.
+    Warnings are prominently flagged, and mappers are discouraged from uploading until they are resolved, promoting a high standard of data hygiene.
 
 
 3. **Visual Quality Checks with Custom Map Styles**
