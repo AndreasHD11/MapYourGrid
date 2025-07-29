@@ -30,25 +30,89 @@ MapYourGrid measures its progress at user, hashtag and country level. We would b
 <!-- Countries Section -->
 ## **<div class="tools-header">Country list </div>**
 
-We contribute to mapping the grid all around the world. Discover our main contributions in different countries:
+We contribute to the creation of mapping grids around the world. Below is a list of countries where we have identified and filled significant gaps in the electrical grid:
 
-![Flag Bangladesh](http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Bangladesh.svg){width=20px} [Bangladesh](countrypages/Bangladesh.md) - 
-![Flag Benin](http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Benin.svg){width=20px} [Benin](countrypages/Benin.md) -
-![Flag Bolivia](http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Bolivia.svg){width=20px} [Bolivia](countrypages/Bolivia.md) - 
-![Flag Bosnia and Herzegovina](http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Bosnia%20and%20Herzegovina.svg){width=20px} [Bosnia and Herzegovina](countrypages/Bosnia and Herzegovina.md) - 
-![Flag Cambodia](http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Cambodia.svg){width=20px} [Cambodia](countrypages/Cambodia.md) - 
-![Flag Colombia](http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Colombia.svg){width=20px} [Colombia](countrypages/Colombia.md) -
-![Flag Georgia](http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Georgia.svg){width=20px} [Georgia](countrypages/Georgia.md) - 
-![Flag Kazakhstan](http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Kazakhstan.svg){width=20px} [Kazakhstan](countrypages/Kazakhstan.md) - 
-![Flag Kenya](http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Kenya.svg){width=20px} [Kenya](countrypages/Kenya.md) - 
-![Flag Mongolia](http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Mongolia.svg){width=20px} [Mongolia](countrypages/Mongolia.md) - 
-![Flag Nepal](http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Nepal.svg){width=20px} [Nepal](countrypages/Nepal.md) -
-![Flag Nigeria](http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Nigeria.svg){width=20px} [Nigeria](countrypages/Nigeria.md) - 
-![Flag Pakistan](http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Pakistan.svg){width=20px} [Pakistan](countrypages/Pakistan.md) - 
-![Flag Sri Lanka](http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Sri%20Lanka.svg){width=20px} [Sri Lanka](countrypages/Sri Lanka.md) - 
-![Flag Turkmenistan](http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Turkmenistan.svg){width=20px} [Turkmenistan](countrypages/Turkmenistan.md) -
-![Flag Uganda](http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Uganda.svg){width=20px} [Uganda](countrypages/Uganda.md) - 
-![Flag Uzbekistan](http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Uzbekistan.svg){width=20px} [Uzbekistan](countrypages/Uzbekistan.md) 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Global Contributions</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      margin: 2rem;
+      background-color: #f9f9f9;
+    }
+
+
+    .grid-container {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 1rem;
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+
+    .country-card {
+      background-color: white;
+      padding: 1rem;
+      border-radius: 12px;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      transition: transform 0.2s ease;
+      text-align: center; 
+    }
+
+    .country-card:hover {
+      transform: translateY(-4px);
+    }
+
+    .country-card img {
+      width: 40px;
+      height: auto;
+      flex-shrink: 0;
+    }
+
+    .country-card a {
+      text-decoration: none;
+      color: #333;
+      font-weight: 500;
+    }
+
+    .country-card a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="grid-container">
+
+    <div class="country-card"><img src="http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Bangladesh.svg" alt="Bangladesh Flag"><a href="countrypages/Bangladesh.md">Bangladesh</a></div>
+    <div class="country-card"><img src="http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Benin.svg" alt="Benin Flag"><a href="countrypages/Benin.md">Benin</a></div>
+    <div class="country-card"><img src="http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Bolivia.svg" alt="Bolivia Flag"><a href="countrypages/Bolivia.md">Bolivia</a></div>
+    <div class="country-card"><img src="http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Bosnia%20and%20Herzegovina.svg" alt="Bosnia Flag"><a href="countrypages/Bosnia and Herzegovina.md">Bosnia and Herzegovina</a></div>
+    <div class="country-card"><img src="http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Cambodia.svg" alt="Cambodia Flag"><a href="countrypages/Cambodia.md">Cambodia</a></div>
+    <div class="country-card"><img src="http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Colombia.svg" alt="Colombia Flag"><a href="countrypages/Colombia.md">Colombia</a></div>
+    <div class="country-card"><img src="http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Georgia.svg" alt="Georgia Flag"><a href="countrypages/Georgia.md">Georgia</a></div>
+    <div class="country-card"><img src="http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Kazakhstan.svg" alt="Kazakhstan Flag"><a href="countrypages/Kazakhstan.md">Kazakhstan</a></div>
+    <div class="country-card"><img src="http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Kenya.svg" alt="Kenya Flag"><a href="countrypages/Kenya.md">Kenya</a></div>
+    <div class="country-card"><img src="http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Mongolia.svg" alt="Mongolia Flag"><a href="countrypages/Mongolia.md">Mongolia</a></div>
+    <div class="country-card"><img src="http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Nepal.svg" alt="Nepal Flag"><a href="countrypages/Nepal.md">Nepal</a></div>
+    <div class="country-card"><img src="http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Nigeria.svg" alt="Nigeria Flag"><a href="countrypages/Nigeria.md">Nigeria</a></div>
+    <div class="country-card"><img src="http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Pakistan.svg" alt="Pakistan Flag"><a href="countrypages/Pakistan.md">Pakistan</a></div>
+    <div class="country-card"><img src="http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Sri%20Lanka.svg" alt="Sri Lanka Flag"><a href="countrypages/Sri Lanka.md">Sri Lanka</a></div>
+    <div class="country-card"><img src="http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Turkmenistan.svg" alt="Turkmenistan Flag"><a href="countrypages/Turkmenistan.md">Turkmenistan</a></div>
+    <div class="country-card"><img src="http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Uganda.svg" alt="Uganda Flag"><a href="countrypages/Uganda.md">Uganda</a></div>
+    <div class="country-card"><img src="http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Uzbekistan.svg" alt="Uzbekistan Flag"><a href="countrypages/Uzbekistan.md">Uzbekistan</a></div>
+
+  </div>
+
+</body>
+</html>
+</br>
 
 
 <div style="text-align:center">
