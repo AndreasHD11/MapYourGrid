@@ -110,9 +110,40 @@ image: images/website/mapyourgrid-preview.jpg
     </div>
   </div>
   <div>
-    <p style="font-size: 1.1rem;color: #777;text-align: center; font-style: italic;">
-      <a href="progress">Read more about all the countries that we have mapped.</a>
-    </p>
+
+<div class="country-grid our-mapping-section">
+  <div class="country-card"><a href="/countrypages/Bangladesh/"><img class="country-flag off-glb" src="http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Bangladesh.svg" alt="Bangladesh Flag"></a></div>
+  <div class="country-card"><a href="/countrypages/Benin/"><img class="country-flag off-glb" src="http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Benin.svg" alt="Benin Flag"></a></div>
+  <div class="country-card"><a href="/countrypages/Bolivia/"><img class="country-flag off-glb" src="http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Bolivia.svg" alt="Bolivia Flag"></a></div>
+  <div class="country-card"><a href="/countrypages/Bosnia%20and%20Herzegovina/"><img class="country-flag off-glb" src="http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Bosnia%20and%20Herzegovina.svg" alt="Bosnia and Herzegovina Flag"></a></div>
+  <div class="country-card"><a href="/countrypages/Cambodia/"><img class="country-flag off-glb" src="http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Cambodia.svg" alt="Cambodia Flag"></a></div>
+  <div class="country-card"><a href="/countrypages/Colombia/"><img class="country-flag off-glb" src="http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Colombia.svg" alt="Colombia Flag"></a></div>
+  <div class="country-card"><a href="/countrypages/Georgia/"><img class="country-flag off-glb" src="http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Georgia.svg" alt="Georgia Flag"></a></div>
+  <div class="country-card"><a href="/countrypages/Kazakhstan/"><img class="country-flag off-glb" src="http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Kazakhstan.svg" alt="Kazakhstan Flag"></a></div>
+  <div class="country-card"><a href="/countrypages/Kenya/"><img class="country-flag off-glb" src="http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Kenya.svg" alt="Kenya Flag"></a></div>
+  <div class="country-card"><a href="/countrypages/Mongolia/"><img class="country-flag off-glb" src="http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Mongolia.svg" alt="Mongolia Flag"></a></div>
+  <div class="country-card"><a href="/countrypages/Nepal/"><img class="country-flag off-glb" src="http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Nepal.svg" alt="Nepal Flag"></a></div>
+  <div class="country-card"><a href="/countrypages/Nigeria/"><img class="country-flag off-glb" src="http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Nigeria.svg" alt="Nigeria Flag"></a></div>
+  <div class="country-card"><a href="/countrypages/Pakistan/"><img class="country-flag off-glb" src="http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Pakistan.svg" alt="Pakistan Flag"></a></div>
+  <div class="country-card"><a href="/countrypages/Sri%20Lanka/"><img class="country-flag off-glb" src="http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Sri%20Lanka.svg" alt="Sri Lanka Flag"></a></div>
+  <div class="country-card"><a href="/countrypages/Turkmenistan/"><img class="country-flag off-glb" src="http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Turkmenistan.svg" alt="Turkmenistan Flag"></a></div>
+  <div class="country-card"><a href="/countrypages/Uganda/"><img class="country-flag off-glb" src="http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Uganda.svg" alt="Uganda Flag"></a></div>
+  <div class="country-card"><a href="/countrypages/Uzbekistan/"><img class="country-flag off-glb" src="http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Uzbekistan.svg" alt="Uzbekistan Flag"></a></div>
+
+</div>
+  <div>
+  <img src="../images/progress/mapyourgrid-globalprogress.jpg" alt="Grid Illustration" class="initiative-content" style="width: 80%; border: 4px solid #2a6d3c;">
+  <figcaption class="fig-label">Global overview of all lines mapped by MapYourGrid in July 2025. Click to enlarge.
+</figcaption>
+  </div>
+  </div>
+</div>
+
+
+<div class="our-mapping-section" style="display: flex; flex-direction: column; align-items: center;">
+  <h2>Subscribe to Our Newsletter</h2>
+  <div>
+    <script async src="https://eocampaign1.com/form/c308f2c6-6898-11f0-9bf6-53fb9ff1b12b.js" data-form="c308f2c6-6898-11f0-9bf6-53fb9ff1b12b"></script>
   </div>
 </div>
 
@@ -159,14 +190,6 @@ image: images/website/mapyourgrid-preview.jpg
 </div>
 </div>
 
-<div class="our-mapping-section" style="text-align: center;">
-  <h2 style="margin-bottom: 0.5rem; font-size: 2em; color: #205b2a;">Subscribe to Our Newsletter</h2>
-  <div style="display: flex; justify-content: center;">
-    <div style="max-width: 480px; width: 100%;">
-      <script async src="https://eocampaign1.com/form/c308f2c6-6898-11f0-9bf6-53fb9ff1b12b.js" data-form="c308f2c6-6898-11f0-9bf6-53fb9ff1b12b"></script>
-    </div>
-  </div>
-</div>
 
 
 

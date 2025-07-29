@@ -182,7 +182,7 @@ body.landing-page header.md-header {
 }
 
 .get-involved-section h2 {
-  color: #2A6D3C;
+  color: #54A36A;
   font-size: 2.5rem;
   margin-bottom: 2rem;
   margin-top: 1rem;
@@ -259,6 +259,20 @@ body.landing-page header.md-header {
   padding: 2rem 2rem 4rem 2rem;
   background-color: #f8f9fa; /* Light grey background */
   text-align: center;
+}
+
+.our-newsletter-section {
+  padding: 2rem 2rem 4rem 2rem;
+  background-color: #f8f9fa; /* Light grey background */
+  text-align: center;
+}
+
+.our-newsletter-section h1 {
+  color: #54a36a;
+  font-size: 2.5rem;
+  margin-top: 1rem;
+  margin-bottom: 2.5rem;
+  font-weight: 700;
 }
 
 .our-mapping-section h2 {
@@ -560,3 +574,8 @@ body.landing-page header.md-header {
   }
 }
 
+.fig-label {
+  color: #4a5568;
+  font-size: 1rem;
+  font-weight: 500;
+}
