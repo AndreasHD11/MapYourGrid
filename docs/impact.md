@@ -7,13 +7,14 @@ OpenStreetMap’s unique value in creating high quality data for sustainable dev
 
 <div style="float: right; margin: 5px 0 20px 20px; width: 350px;">
 
+  <a href="https://pypsa-earth.readthedocs.io/en/latest/index.html" target="_blank">
+  <img src="../images/impact/pypsa-earth-india.jpg" class="img-border" style="width: 100%;"> </a>
+  <figcaption class="image-caption">The PyPSA-Earth open-source energy system model uses OpenStreetMap data to study the future of energy around the world. Click to enlarge.</figcaption>
+
   <a href="https://map.vida.place/public/workspace/a6a89f8a-f472-45b0-8674-fcf6d7b4c7e3" target="_blank">
   <img src="../images/impact/DRE-pakistan.jpg" class="img-border" style="width: 100%;"> </a>
   <figcaption class="image-caption">58 countries energy planning directly depend on OpenStreetMap <a href="https://map.vida.place/public/workspace/114d1c69-eb81-4e49-8434-0f038854f4a0"> like in this case Pakistan</a>. Click to enlarge.</figcaption>
 
-  <a href="https://pypsa-earth.readthedocs.io/en/latest/index.html" target="_blank">
-  <img src="../images/impact/pypsa-earth-india.jpg" class="img-border" style="width: 100%;"> </a>
-  <figcaption class="image-caption">The PyPSA-Earth open-source energy system model uses OpenStreetMap data to study the future of energy around the world. Click to enlarge.</figcaption>
 </div> 
 
 1. The [Global Electrification Platform](https://electrifynow.energydata.info/) and [Distributed Renewable Energy Atlas](https://dre.energydata.info/), developed and used by the World Bank, are used for planning electrification and expansion of renewable energy in rural areas across 58 countries. Using OpenStreetMap's transmission lines, roads, buildings, and settlements, it helps identify off-grid populations and informs planning for both grid and off-grid electrification strategies. gep-onsset, the Open Source Software behind Global Electrification Platform, [relies heavily on electrical grid data of OpenStreetMap](https://gep-onsset.readthedocs.io/en/latest/GIS%20data%20collection.html#infrastructure).
