@@ -843,3 +843,15 @@ aside.md-banner a>div {
 .country-card a:hover {
   text-decoration: underline;
 }
+
+.flag-grid-wrapper {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(48px, 1fr));
+  gap: 0.5rem;
+  justify-items: center;
+  align-items: center;
+  margin-top: 1rem;
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
