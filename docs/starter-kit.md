@@ -41,7 +41,7 @@ Get started by clicking on one of the OpenStreetMap editors:
 
 1. Install JOSM using the [**recommended instructions**](installation-instructions.md) for your machine.
 1. Link your OSM account to JOSM. To do this, go to `Edit → Preferences → OSM Server` and select "Authorise". Login (or sign-up) with your OSM account. Your OSM account should now be linked. Be aware that your token key is now stored in your local preferences.xml file. Do not share this file with anyone. <br>
-1. Enable `Remote control` in `Edit → Preferences → Remote Control`, and enable it. This allows for grid data to be loaded automatically..:
+1. Enable `Remote control` in `Edit → Preferences → Remote Control`. This allows for grid data to be loaded automatically.
 1. Enable `Expert Mode` `View → Expert Mode` to enable search function that you will need. 
 1. Understanding JOSM layers. JOSM works with stacked layers, similar to Photoshop or GIS tools:
     * You’ll typically have an OSM data layer, imagery layers, and optionally GeoJSON or task layers.
