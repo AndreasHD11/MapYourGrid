@@ -57,12 +57,17 @@ Organizations such as the **World Bank** and the **International Energy Agency (
 </div> 
 
 > **IEA Key Policy Recommendation in 2024:**
-> “Improve data reliability and availability to better assess and manage risks for clean energy projects in emerging markets and developing economies.”           
+> “Improve data reliability and availability to better assess and manage risks for clean energy projects in emerging markets and developing economies.”             
 [How to implement the COP28 energy goals](https://www.iea.org/events/from-taking-stock-to-taking-action-how-to-implement-the-cop28-energy-goals)</br>
 --- 
 > **IEA Actionable Recommendation in 2025:**
-> “Policy makers, regulators and utilities must support institutions, regulations, technical standards and collaboration platforms to build consensus on effective planning approaches that take full account of the changes in the profiles of power systems and their operations. Encouraging Transmission System Operator to share procurement and capacity planning data with regulators will further support informed policymaking.       
+> “Policy makers, regulators and utilities must support institutions, regulations, technical standards and collaboration platforms to build consensus on effective planning approaches that take full account of the changes in the profiles of power systems and their operations. Encouraging Transmission System Operator to share procurement and capacity planning data with regulators will further support informed policymaking.           
 [Building the Future Transmission Grid](https://iea.blob.core.windows.net/assets/a688d0f5-a100-447f-91a1-50b7b0d8eaa1/BuildingtheFutureTransmissionGrid.pdf)
+--- 
+> **United Nations ESCAP Recommendations in 2025**
+> "Open access to non-sensitive energy data, **including geospatial mapping of grids**, renewable resource availability, and interconnection status, would also facilitate more inclusive stakeholder engagement and private sector participation. Transparent data
+practices are especially important for regional collaboration, as they allow neighboring countries to align plans, assess complementarities, and coordinate investments.      
+[The Role of Grids in Energy Transitions](https://repository.unescap.org/server/api/core/bitstreams/e0660cc4-796d-42f9-a020-9bd2d915f267/content)
 
 --- 
 
