@@ -278,12 +278,12 @@ The [Learning Curve](https://www.youtube.com/@TheLearningCurveBenila/videos), is
 1. [Components of Overhead Transmission Lines](https://www.youtube.com/watch?v=A6fwq3yHRXQ)
 1. [Comparison between HVAC and HVDC transmission system](https://www.youtube.com/watch?v=l9nHs8e0WUg)
 
-The following image is take from the report Key technology components of electricity grids Source: IEA - [Electricity Grids and Secure Energy Transitions](https://iea.blob.core.windows.net/assets/ea2ff609-8180-4312-8de9-494bcf21696d/ElectricityGridsandSecureEnergyTransitions.pdf).
+The following image is take from the report Key technology components of electricity grids Source:  - [Electricity Grids and Secure Energy Transitions]().
 
 <div style="float: left; margin: 5px 0 20px 20px; width: 100%;">
   <a href="../images/grid-design.png" target="_blank">
   <img src="../images/grid-design.png" class="img-border" style="width: 100%;"> </a>
-  <figcaption class="image-caption">Key technology components of electricity grids Source: IEA - Electricity Grids and Secure Energy Transitions.</figcaption>
+  <figcaption class="image-caption">Key technology components of electricity grids Source: IEA - CC BY 4.0 - <a href="https://iea.blob.core.windows.net/assets/ea2ff609-8180-4312-8de9-494bcf21696d/ElectricityGridsandSecureEnergyTransitions.pdf"> Electricity Grids and Secure Energy Transitions </a>.</figcaption>
 </div>
 
 
