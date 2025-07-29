@@ -213,7 +213,7 @@ OpenStreetMap allows mappers to quickly mark an object that seems to be wrong an
 1. Download the grid you want to look into using at the [Map It📍](https://MapYourGrid.org/map-it/) page.
 2. Press `CTRL+F`and search for `fixme=*`.
 3. In the Todo list window press `Add`.
-4. After you fixed and issues please remove the fixme tag.
+4. Once you have fixed an issue, please remove the `fixme` tag..
 
 ### <div class="tools-header">Open Infrastructure Map - Nighttime Lights and Osmose </div></h3>
 <div style="float: right; margin: 5px 0 20px 20px; width: 350px;">
@@ -286,9 +286,9 @@ Follow the steps below to help improve rejected power plants in OSM:
 
 1. Use the [Map It📍](https://MapYourGrid.org/map-it/) page to download the rejected power plant layer for a given country.
 2. Open the GeoJSON file in JOSM as a new layer.
-3. Press CTRL+A and click 'Add' in the 'Todo' window.
+3. Press CTRL+A and click `Add` in the `Todo` window.
 4. Switch to your OSM transmission or power layer.
-5. Step through the rejected entries by pressing 'Mark' in JOSM.
+5. Step through the rejected entries by pressing `Mark` in JOSM.
 6. Improve tagging to enhance the quality of OSM data.
 
 
