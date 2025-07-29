@@ -887,5 +887,5 @@ We welcome everyone to join our [📍-MapYourGrid discord channel](https://disco
 
 ## <div class="tools-header">Join the Community  :calendar: </div>
 We welcome everyone to join our community calls and tutorials, to learn more about the mapping process and the initiative.
-<iframe src="https://calendar.google.com/calendar/embed?src=mapyourgrid%40openenergytransition.org&ctz=Europe%2FBerlin" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?src=mapyourgrid%40gmail.com&ctz=Europe%2FBerlin" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 

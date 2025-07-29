@@ -13,7 +13,7 @@ MapYourGrid measures its progress at user, hashtag and country level. We would b
 
 
 <div class="progress-buttons">
-     <a href="#country-list" class="btn btn-primary">
+     <a href="#countries" class="btn btn-primary">
       Country list 🌐
      </a>
       <a href="#community-mapping-progress" class="btn btn-primary">
@@ -28,28 +28,141 @@ MapYourGrid measures its progress at user, hashtag and country level. We would b
 </div>
 
 <!-- Countries Section -->
-## **<div class="tools-header">Country list </div>**
+## **<div class="tools-header">Countries </div>**
 
-We contribute to mapping the grid all around the world. Discover our main contributions in different countries:
+Our work supports better access to electricity across the globe. In the countries below, we’ve helped map and fill critical gaps in the electrical grid.
 
-![Flag Bangladesh](http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Bangladesh.svg){width=20px} [Bangladesh](countrypages/Bangladesh.md) - 
-![Flag Benin](http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Benin.svg){width=20px} [Benin](countrypages/Benin.md) -
-![Flag Bolivia](http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Bolivia.svg){width=20px} [Bolivia](countrypages/Bolivia.md) - 
-![Flag Bosnia and Herzegovina](http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Bosnia%20and%20Herzegovina.svg){width=20px} [Bosnia and Herzegovina](countrypages/Bosnia and Herzegovina.md) - 
-![Flag Cambodia](http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Cambodia.svg){width=20px} [Cambodia](countrypages/Cambodia.md) - 
-![Flag Colombia](http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Colombia.svg){width=20px} [Colombia](countrypages/Colombia.md) -
-![Flag Georgia](http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Georgia.svg){width=20px} [Georgia](countrypages/Georgia.md) - 
-![Flag Kazakhstan](http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Kazakhstan.svg){width=20px} [Kazakhstan](countrypages/Kazakhstan.md) - 
-![Flag Kenya](http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Kenya.svg){width=20px} [Kenya](countrypages/Kenya.md) - 
-![Flag Mongolia](http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Mongolia.svg){width=20px} [Mongolia](countrypages/Mongolia.md) - 
-![Flag Nepal](http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Nepal.svg){width=20px} [Nepal](countrypages/Nepal.md) -
-![Flag Nigeria](http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Nigeria.svg){width=20px} [Nigeria](countrypages/Nigeria.md) - 
-![Flag Pakistan](http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Pakistan.svg){width=20px} [Pakistan](countrypages/Pakistan.md) - 
-![Flag Sri Lanka](http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Sri%20Lanka.svg){width=20px} [Sri Lanka](countrypages/Sri Lanka.md) - 
-![Flag Turkmenistan](http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Turkmenistan.svg){width=20px} [Turkmenistan](countrypages/Turkmenistan.md) -
-![Flag Uganda](http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Uganda.svg){width=20px} [Uganda](countrypages/Uganda.md) - 
-![Flag Uzbekistan](http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Uzbekistan.svg){width=20px} [Uzbekistan](countrypages/Uzbekistan.md) - 
+<div class="grid-wrapper">
 
+  <div class="country-card">
+    <a href="/countrypages/Bangladesh/">
+      <img class="country-flag" src="http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Bangladesh.svg" alt="Bangladesh Flag">
+      <div>Bangladesh</div>
+    </a>
+  </div>
+
+  <div class="country-card">
+    <a href="/countrypages/Benin/">
+      <img class="country-flag" src="http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Benin.svg" alt="Benin Flag">
+      <div>Benin</div>
+    </a>
+  </div>
+
+  <div class="country-card">
+    <a href="/countrypages/Bolivia/">
+      <img class="country-flag" src="http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Bolivia.svg" alt="Bolivia Flag">
+      <div>Bolivia</div>
+    </a>
+  </div>
+
+  <div class="country-card">
+    <a href="/countrypages/Bosnia%20and%20Herzegovina/">
+      <img class="country-flag" src="http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Bosnia%20and%20Herzegovina.svg" alt="Bosnia and Herzegovina Flag">
+      <div>Bosnia and Herzegovina</div>
+    </a>
+  </div>
+
+  <div class="country-card">
+    <a href="/countrypages/Cambodia/">
+      <img class="country-flag" src="http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Cambodia.svg" alt="Cambodia Flag">
+      <div>Cambodia</div>
+    </a>
+  </div>
+
+  <div class="country-card">
+    <a href="/countrypages/Colombia/">
+      <img class="country-flag" src="http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Colombia.svg" alt="Colombia Flag">
+      <div>Colombia</div>
+    </a>
+  </div>
+
+  <div class="country-card">
+    <a href="/countrypages/Georgia/">
+      <img class="country-flag" src="http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Georgia.svg" alt="Georgia Flag">
+      <div>Georgia</div>
+    </a>
+  </div>
+
+  <div class="country-card">
+    <a href="/countrypages/Kazakhstan/">
+      <img class="country-flag" src="http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Kazakhstan.svg" alt="Kazakhstan Flag">
+      <div>Kazakhstan</div>
+    </a>
+  </div>
+
+  <div class="country-card">
+    <a href="/countrypages/Kenya/">
+      <img class="country-flag" src="http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Kenya.svg" alt="Kenya Flag">
+      <div>Kenya</div>
+    </a>
+  </div>
+
+  <div class="country-card">
+    <a href="/countrypages/Mongolia/">
+      <img class="country-flag" src="http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Mongolia.svg" alt="Mongolia Flag">
+      <div>Mongolia</div>
+    </a>
+  </div>
+
+  <div class="country-card">
+    <a href="/countrypages/Nepal/">
+      <img class="country-flag" src="http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Nepal.svg" alt="Nepal Flag">
+      <div>Nepal</div>
+    </a>
+  </div>
+
+  <div class="country-card">
+    <a href="/countrypages/Nigeria/">
+      <img class="country-flag" src="http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Nigeria.svg" alt="Nigeria Flag">
+      <div>Nigeria</div>
+    </a>
+  </div>
+
+  <div class="country-card">
+    <a href="/countrypages/Pakistan/">
+      <img class="country-flag" src="http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Pakistan.svg" alt="Pakistan Flag">
+      <div>Pakistan</div>
+    </a>
+  </div>
+
+  <div class="country-card">
+    <a href="/countrypages/Sri%20Lanka/">
+      <img class="country-flag" src="http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Sri%20Lanka.svg" alt="Sri Lanka Flag">
+      <div>Sri Lanka</div>
+    </a>
+  </div>
+
+  <div class="country-card">
+    <a href="/countrypages/Turkmenistan/">
+      <img class="country-flag" src="http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Turkmenistan.svg" alt="Turkmenistan Flag">
+      <div>Turkmenistan</div>
+    </a>
+  </div>
+
+  <div class="country-card">
+    <a href="/countrypages/Uganda/">
+      <img class="country-flag" src="http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Uganda.svg" alt="Uganda Flag">
+      <div>Uganda</div>
+    </a>
+  </div>
+
+  <div class="country-card">
+    <a href="/countrypages/Uzbekistan/">
+      <img class="country-flag" src="http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Uzbekistan.svg" alt="Uzbekistan Flag">
+      <div>Uzbekistan</div>
+    </a>
+  </div>
+
+</div>
+
+
+
+</br>
+
+<div style="text-align:center">
+<img src="https://raw.githubusercontent.com/ben10dynartio/apps/refs/heads/main/mapyourgrid/images/country_grid_4x4.jpg" class="img-border" style="width: 60%;">
+<figcaption class="image-caption">Our progress in different countries. Click to enlarge.</figcaption>
+</div> 
 
 <!-- Progress Bars Section -->
 ## **<div class="tools-header">Community Mapping Progress </div>**
@@ -95,7 +208,7 @@ We contribute to mapping the grid all around the world. Discover our main contri
   </div>
 
   <div class="progress-item">
-    <label>Total Estimated Global Power Capacity added by mappers of the MapYourGrid organisations:</label>
+    <label>Total Estimated Global Power Capacity added/edited by mappers of the MapYourGrid organisations:</label>
     <div class="progress">
       <div class="progress-bar" id="plant-capacity-bar" style="background-color: #17a2b8;"></div>
     </div>
@@ -105,7 +218,7 @@ We contribute to mapping the grid all around the world. Discover our main contri
   </div>
 
   <div class="progress-item">
-    <label>Total estimated substations added by mappers of the MapYourGrid organisations:</label>
+    <label>Total estimated substations added/edited by mappers of the MapYourGrid organisations:</label>
     <div class="progress">
       <div class="progress-bar" id="substation-bar" style="background-color: #17a2b8;"></div>
     </div>
