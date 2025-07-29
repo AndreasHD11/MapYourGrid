@@ -13,7 +13,7 @@ MapYourGrid measures its progress at user, hashtag and country level. We would b
 
 
 <div class="progress-buttons">
-     <a href="#country-list" class="btn btn-primary">
+     <a href="#countries" class="btn btn-primary">
       Country list 🌐
      </a>
       <a href="#community-mapping-progress" class="btn btn-primary">
@@ -28,9 +28,9 @@ MapYourGrid measures its progress at user, hashtag and country level. We would b
 </div>
 
 <!-- Countries Section -->
-## **<div class="tools-header">Country list </div>**
+## **<div class="tools-header">Countries </div>**
 
-We contribute to the creation of mapping grids around the world. Below is a list of countries where we have identified and filled significant gaps in the electrical grid:
+Our work supports better access to electricity across the globe. In the countries below, we’ve helped map and fill critical gaps in the electrical grid.
 
 <!DOCTYPE html>
 <html lang="en">
