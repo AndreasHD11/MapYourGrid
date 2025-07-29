@@ -844,14 +844,33 @@ aside.md-banner a>div {
   text-decoration: underline;
 }
 
-.flag-grid-wrapper {
+
+.country-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(48px, 1fr));
-  gap: 0.5rem;
-  justify-items: center;
+  grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+  gap: 1rem;
+  max-width: 80%;
+  margin: 2rem auto;
+  padding: 0 1rem;
+}
+
+.country-card {
+  text-align: center;
+}
+
+.country-card a {
+  display: flex;
+  justify-content: center;
   align-items: center;
-  margin-top: 1rem;
-  max-width: 800px;
-  margin-left: auto;
-  margin-right: auto;
+}
+
+.country-flag.off-glb {
+  width: 48px;
+  height: 32px;
+  object-fit: contain;
+  transition: transform 0.2s ease;
+}
+
+.country-flag.off-glb:hover {
+  transform: scale(1.1);
 }
