@@ -167,7 +167,158 @@ In the United States, the Department of Homeland Security and other agencies pub
 
 The [Homeland Infrastructure Foundation-Level Data](https://resilience.climate.gov/datasets/fedmaps::u-s-electric-power-transmission-lines/explore?location=38.846475%2C-76.984997%2C8.86) has shown **strong alignment** with OpenStreetMap data, demonstrating how open contributions can match official datasets in coverage and accuracy.
 
---- 
+## **<div class="tools-header">Responsible Grid Mapping: Understanding Risks and Mitigation?</div>**
+
+Openly mapping electricity transmission infrastructure is essential to achieving universal energy access, strengthening climate resilience, and enabling clean energy planning. But openness, especially in the realm of infrastructure, naturally raises questions about risk and security.
+
+At MapYourGrid, we take these concerns seriously. This section explains the actual risks associated with open grid data, why the benefits of responsible mapping outweigh those risks, and how we mitigate potential harms through careful, community-informed practices.
+
+---
+
+### Why Infrastructure Mapping Raises Concerns
+
+Electric transmission infrastructure is widely regarded as critical to national and regional stability. It powers economies, supports healthcare systems, and connects communities. Given this, stakeholders often ask: does publishing maps of power lines and substations expose a system to new threats?
+
+This is a valid concern. While OSM mapping focuses only on non-sensitive, publicly visible features, it’s important to understand where the line is drawn, and how we enforce it.
+
+---
+
+### Most Grid Infrastructure Is Already Publicly Visible
+
+In practice, the vast majority of grid infrastructure is already accessible through:
+
+- Satellite imagery platforms like Google Earth and Bing Maps
+- National and regional planning documents
+- Government datasets, such as the U.S. HIFLD database or the EU's ENTSO-E platform
+- Commercial mapping services, which label substations and sometimes show transmission corridors
+
+OpenStreetMap does not introduce new forms of visibility. Instead, it provides structured, standardized, and openly licensed data that is accessible to communities, researchers, planners, and public institutions. Many of whom cannot afford commercial access or proprietary datasets.
+
+---
+
+### The Bigger Risk: A Lack of Data
+
+<div style="float: right; margin: 5px 0 20px 20px; width: 350px;">
+  <img src="../images/impact/ember-data-asia.jpg" class="img-border" style="width: 100%;"> 
+  <figcaption class="image-caption">
+     <a href="https://ember-energy.org/latest-insights/asia-data-transparency-report-2023/" target="_blank">Based on the Asia Data Transparency Report by Ember</a>, a large part of South East Asia lacks public energy data.
+  </figcaption>
+</figure>
+</div> 
+
+
+For much of the world, the absence of reliable, accessible grid data is a more urgent risk than openness. In countries with expanding populations, growing urban centers, or rural electrification needs, decisions about where to invest in infrastructure depend on having accurate spatial data.
+
+Without it:
+
+- Electrification efforts stall due to uncertainty in grid reach and capacity
+- Renewable energy developers face delays or suboptimal siting
+- Emergency response teams cannot plan around real-world grid layouts
+- Public agencies lack the tools to ensure transparency and resilience
+
+Mapping transmission infrastructure in OpenStreetMap helps close this data gap.
+
+---
+
+### Our Approach to Risk Mitigation
+
+We don’t treat risk lightly. MapYourGrid implements a layered, context-aware framework to ensure that mapping serves the public good while respecting national sensitivities and community priorities. Read more about this in our [Code of Mappers](./code-of-mappers.md).
+
+#### Community Consent and Local Alignment
+
+We motivate mappers to engage directly with regional OpenStreetMap communities. We provide training, host collaborative events, and support in-country mapping leaders to ensure that each initiative reflects local knowledge, laws and priorities.
+
+#### Clear Boundaries on What We Map
+
+<div style="float: right; margin: 5px 0 20px 20px; width: 350px;">
+  <img src="../images/impact/kenya-substation-level-of-detail.jpg" class="img-border" style="width: 100%;"> 
+  <figcaption class="image-caption">
+     Typical resolution of Satellite images (ESRI) and Mapping Resolution of a Kenya Substation in OpenStreetMap. Lines end with portals at substations. No internal routing and components are mapped. 
+  </figcaption>
+</figure>
+</div> 
+
+We focus strictly on features that are:
+
+- Publicly observable in satellite imagery
+- Energy planning-relevant and appropriate for open mapping
+
+This includes **power line routes, tower locations, substation boundaries, and voltage classifications.** 
+
+We explicitly do **not** map:
+
+- Substation interiors or fencing
+- Control systems or communications infrastructure
+- Security or surveillance features
+
+This boundary ensures that OSM grid data is useful without compromising operational or physical security.
+
+#### Data Validation and Version Control
+
+Every contribution to OpenStreetMap is timestamped, attributed, and fully reversible. The OSM platform includes built-in tools to detect suspicious edits, and MapYourGrid-supported projects include an additional layer of human quality control, expert review, and automated validation tools.
+
+This model promotes transparency and reduces the risk of error or malicious contributions going unnoticed.
+
+### What the Evidence Tells Us
+
+<div style="float: right; margin: 5px 0 20px 20px; width: 350px;">
+  <img src="../images/impact/Risk-of-Tropical-Cyclones-and-Floods.jpg" class="img-border" style="width: 100%;"> 
+  <figcaption class="image-caption">
+      The <a href="https://link.springer.com/article/10.1007/s13753-024-00573-7">"Risk of Tropical Cyclones and Floods to Power Grids in Southeast and East Asia" </a> study uses OpenStreetMap infrastructure data to estimate expected annual damages to power‑grid assets from tropical cyclone winds and coastal floods.
+  </figcaption>
+</figure>
+</div> 
+
+Research and operational experience from agencies like the U.S. Department of Energy and the International Energy Agency show that most power grid disruptions come from:
+
+- Extreme weather events
+- Maintenance failures and aging infrastructure
+- Insufficient coordination across jurisdictions
+
+While physical and cyber threats do exist, they are typically unrelated to the kind of public infrastructure data found in OpenStreetMap. In fact, a lack of data often worsens the consequences of these risks by delaying coordination and limiting visibility during crises.
+
+Ukraine’s 2022 infrastructure attacks, for example, occurred despite a ban on publishing grid data. Restricting information did not prevent targeting—it simply made recovery and planning more difficult.
+
+---
+
+### Comparative Overview
+
+| Dataset                     | Access            | Source                             | Security Level   | Grid Coverage           |
+|-----------------------------|-------------------|-------------------------------------|------------------|-------------------------|
+| OpenStreetMap (OSM)         | Public             | Community + public imagery          | Moderate          | Transmission + Distribution |
+| HIFLD (US DHS)              | Public/Restricted  | Government + OSM-derived            | Controlled         | Transmission only       |
+| CEII (FERC, U.S.)           | Restricted         | Grid operators                      | High               | Transmission only       |
+
+OpenStreetMap data is often used to validate or supplement these official datasets, not replace them.
+
+---
+
+### Supporting Responsible Openness
+
+For donors, researchers, and institutions that want to support open infrastructure data while mitigating risk, we recommend the following:
+
+**Do:**
+
+- Emphasize climate resilience, public benefit, and equity
+- Highlight real-world examples where open data improved planning or disaster response
+- Work closely with regional stakeholders and community mappers
+- Fund training, peer review, and documentation improvements
+
+**Avoid:**
+
+- Supporting mapping in high-conflict areas
+- Treating openness as an all-or-nothing issue
+- Understating the need for careful stewardship and legal awareness
+
+---
+
+### Final Thoughts
+
+Transmission grid mapping in OpenStreetMap is already contributing to real-world progress: From modeling electrification pathways in sub-Saharan Africa to enabling renewable energy siting in Southeast Asia.
+
+By balancing transparency with care, and openness with accountability, we believe it's possible to expand access to infrastructure data while minimizing risk. The global clean energy transition depends on this kind of open, responsible collaboration.
+
+
 
 ## **<div class="tools-header">Who uses OpenStreetMap Grid Data?</div>**
 

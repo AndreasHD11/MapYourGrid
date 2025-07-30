@@ -36,17 +36,23 @@ Get started by clicking on one of the OpenStreetMap editors:
   <img src="../images/starter-kit/imagery.jpg" class="img-border" style="width: 100%;"> </a>
   <figcaption class="image-caption">For countries such as Japan, high-resolution imagery is available across the whole country in JOSM. Click to enlarge.</figcaption>
 </div>
-!!! note
-    **The JOSM Preferences window is accessed through the `Edit → Preferences` menu on Windows and Linux, and `JOSM → Settings` on Mac.**
+
+
 
 1. Install JOSM using the [**recommended instructions**](installation-instructions.md) for your machine.
-1. Link your OSM account to JOSM. To do this, go to `Edit → Preferences → OSM Server` and select "Authorise". Login (or sign-up) with your OSM account. Your OSM account should now be linked. Be aware that your token key is now stored in your local preferences.xml file. Do not share this file with anyone. <br>
+1. Link your OSM account to JOSM. To do this, go to `Edit → Preferences → OSM Server` and select "Authorise". Login (or sign-up) with your OSM account. Your OSM account should now be linked. On macOS `Preferences` can be found under `JOSM → Settings`** <br>
 1. Enable `Remote control` in `Edit → Preferences → Remote Control`. This allows for grid data to be loaded automatically.
 1. Enable `Expert Mode` `View → Expert Mode` to enable search function that you will need. 
 1. Understanding JOSM layers. JOSM works with stacked layers, similar to Photoshop or GIS tools:
     * You’ll typically have an OSM data layer, imagery layers, and optionally GeoJSON or task layers.
     * You can switch between multiple satellite imagery sources (for instance, Esri, Mapbox) to use the clearest one for your area.
 1. Load your Satellite Imagery via `Imagery` and select `Bing aerial imagery` and `Esri World Imagery`. In the `Layers` window on the right hand side you can now `Show/hide` the different imagery by clicking on the eye. This is also where you will load additional data layers. Changing the order of the data and imagery allows you to combine and overlap the different data sources. Some countries, such as Japan, South Africa and Germany, have their own high-resolution imagery in JOSM. If you are mapping local imagery will automatically be visible under `Imagery`.
+
+!!! note
+    **⚠️ In some countries, mapping power lines is restricted. Always verify local guidelines, connect with the OSM local community first, or check out the [local projects](https://wiki.openstreetmap.org/wiki/Power_networks#Local_projects). If you can't find a local community, please send us an [email](mailto:MapYourGrid@openenergytransition.org) and we will help you set up a local group.**
+    
+    **⚠️ By following our [Code of Mappers](./code-of-mappers.md), we collectively protect the integrity of the OSM platform, foster trust with communities, and unlock the power of open data for a more resilient and just energy future. Please be aware that the OpenStreetMap community and foundation does not technically limit the mapping in any place on the globe. Therefore, our Code of Mappers cannot be enforced for volunteer community mappers either.** 
+
 
 ### **<div class="tools-header">2. Setup your Presets </div>**
 
