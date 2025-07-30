@@ -40,7 +40,7 @@ Get started by clicking on one of the OpenStreetMap editors:
 
 
 1. Install JOSM using the [**recommended instructions**](installation-instructions.md) for your machine.
-1. Link your OSM account to JOSM. To do this, go to `Edit → Preferences → OSM Server` and select "Authorise". Login (or sign-up) with your OSM account. Your OSM account should now be linked. On macOS `Preferences` can be found under `JOSM → Settings`** <br>
+1. Link your OSM account to JOSM. To do this, go to `Edit → Preferences → OSM Server` and select "Authorise". Login (or sign-up) with your OSM account. Your OSM account should now be linked. On macOS `Preferences` can be found under `JOSM → Settings`
 1. Enable `Remote control` in `Edit → Preferences → Remote Control`. This allows for grid data to be loaded automatically.
 1. Enable `Expert Mode` `View → Expert Mode` to enable search function that you will need. 
 1. Understanding JOSM layers. JOSM works with stacked layers, similar to Photoshop or GIS tools:
