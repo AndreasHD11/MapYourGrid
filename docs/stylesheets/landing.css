@@ -319,7 +319,7 @@ body.landing-page header.md-header {
 
 .stat-label {
   color: #4a5568;
-  font-size: 1.1rem;
+  font-size: 0.9rem;
   font-weight: 500;
 }
 
@@ -356,7 +356,7 @@ body.landing-page header.md-header {
 /* ==== WHO WE ARE SECTION ==== */
 .who-we-are-section {
   padding: 0.5rem 2rem; /* Increased top/bottom padding */
-  background-color: #e9f5e9; /* Grey background to alternate */
+  background-color: #f8f9fa; /* Grey background to alternate */
   text-align: center;
 }
 
