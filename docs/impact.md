@@ -7,13 +7,14 @@ OpenStreetMap’s unique value in creating high quality data for sustainable dev
 
 <div style="float: right; margin: 5px 0 20px 20px; width: 350px;">
 
-  <a href="https://map.vida.place/public/workspace/a6a89f8a-f472-45b0-8674-fcf6d7b4c7e3" target="_blank">
-  <img src="../images/impact/DRE-pakistan.jpg" class="img-border" style="width: 100%;"> </a>
-  <figcaption class="image-caption">58 countries energy planning directly depend on OpenStreetMap <a href="https://map.vida.place/public/workspace/114d1c69-eb81-4e49-8434-0f038854f4a0"> like in this case Pakistan</a>. Click to enlarge.</figcaption>
-
   <a href="https://pypsa-earth.readthedocs.io/en/latest/index.html" target="_blank">
   <img src="../images/impact/pypsa-earth-india.jpg" class="img-border" style="width: 100%;"> </a>
   <figcaption class="image-caption">The PyPSA-Earth open-source energy system model uses OpenStreetMap data to study the future of energy around the world. Click to enlarge.</figcaption>
+
+  <a href="https://map.vida.place/public/workspace/a6a89f8a-f472-45b0-8674-fcf6d7b4c7e3" target="_blank">
+  <img src="../images/impact/DRE-pakistan.jpg" class="img-border" style="width: 100%;"> </a>
+  <figcaption class="image-caption">The Energy planning of 58 countries like Pakistan directly depend on OpenStreetMap <a href="https://map.vida.place/public/workspace/114d1c69-eb81-4e49-8434-0f038854f4a0"> </a>. Click to enlarge.</figcaption>
+
 </div> 
 
 1. The [Global Electrification Platform](https://electrifynow.energydata.info/) and [Distributed Renewable Energy Atlas](https://dre.energydata.info/), developed and used by the World Bank, are used for planning electrification and expansion of renewable energy in rural areas across 58 countries. Using OpenStreetMap's transmission lines, roads, buildings, and settlements, it helps identify off-grid populations and informs planning for both grid and off-grid electrification strategies. gep-onsset, the Open Source Software behind Global Electrification Platform, [relies heavily on electrical grid data of OpenStreetMap](https://gep-onsset.readthedocs.io/en/latest/GIS%20data%20collection.html#infrastructure).
@@ -23,7 +24,7 @@ OpenStreetMap’s unique value in creating high quality data for sustainable dev
 1. The World Bank's [EnergyData.info](https://energydata.info/dataset/?q=OpenStreetMap) website hosts over 1,072 energy-related datasets, 533 of which directly depend on OpenStreetMap data. The World Bank uses this data to finance and support energy infrastructure projects in low- and middle-income countries, including expanding energy access, modernizing power systems, and promoting clean energy solutions. This data is been used to create report for Decision Makers such as [Mini Grids for Half a Billion People](https://www.esmap.org/sites/default/files/esmap-files/Mini%20Grids%20for%20Half%20a%20Billion%20People%20-%20OKR%20Download%20Version_compressed_MKA.pdf).
 
 
-## **<div class="tools-header">How and why is it used for the Electrical Grid?</div>**
+## **<div class="tools-header">How and Why is it used for the Electrical Grid?</div>**
 
 
 OpenStreetMap’s electrical grid data is actively used by grid operators, academic institutions, government agencies, local authorities, and private organizations. This data plays a crucial role in energy modeling and planning, informing both policy development and investment decisions. 
@@ -96,7 +97,7 @@ To assess the influence of OpenStreetMap electrical grid data in research, we an
 * A total of **2,460 publications** were released in the last year alone, demonstrating a rapid increase in academic engagement with, and recognition of, the power of OpenStreetMap data.
 
 
-## **<div class="tools-header">Why is it important that this data is open?</div>**
+## **<div class="tools-header">Why is it Important that this Data is Open?</div>**
 
 Access to open and accurate data on electricity infrastructure is essential for effective planning, development, and collaboration, especially in the context of the global energy transition. The benefits are far-reaching, particularly for developing countries and emerging economies.
 
@@ -168,7 +169,7 @@ The [Homeland Infrastructure Foundation-Level Data](https://resilience.climate.g
 
 --- 
 
-## **<div class="tools-header">Who uses OpenStreetMap grid data?</div>**
+## **<div class="tools-header">Who uses OpenStreetMap Grid Data?</div>**
 
 How does mapping have an impact? When you map towers, substations, power plants in OpenStreetMap, you are essentially adding valuable data that is used by many different entities. Below is a curated list of organisations and projects that have had an impact and have used this data. <br> 
 

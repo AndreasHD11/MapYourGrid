@@ -41,7 +41,7 @@ Get started by clicking on one of the OpenStreetMap editors:
 
 1. Install JOSM using the [**recommended instructions**](installation-instructions.md) for your machine.
 1. Link your OSM account to JOSM. To do this, go to `Edit → Preferences → OSM Server` and select "Authorise". Login (or sign-up) with your OSM account. Your OSM account should now be linked. Be aware that your token key is now stored in your local preferences.xml file. Do not share this file with anyone. <br>
-1. Enable `Remote control` in `Edit → Preferences → Remote Control`, and enable it. This allows for grid data to be loaded automatically..:
+1. Enable `Remote control` in `Edit → Preferences → Remote Control`. This allows for grid data to be loaded automatically.
 1. Enable `Expert Mode` `View → Expert Mode` to enable search function that you will need. 
 1. Understanding JOSM layers. JOSM works with stacked layers, similar to Photoshop or GIS tools:
     * You’ll typically have an OSM data layer, imagery layers, and optionally GeoJSON or task layers.
@@ -137,7 +137,7 @@ Our community is constantly investigating transmission lines that are suitable f
 
 
 
-## **<div class="tools-header"> Avoid these common Mistakes :name_badge:</div>**
+## **<div class="tools-header"> Avoid these Common Mistakes :name_badge:</div>**
 
 <div style="float: right; margin: 5px 0 10px 20px; width: 350px;">
   <img src="../images/starter-kit/power-towers-without-lines.jpg" class="img-border" style="width: 100%;"> </a>
@@ -175,7 +175,7 @@ Although editors such as iD and MapComplete offer a simpler way to contribute to
 
 Also, if you just want to add a note or report an issue, or if you want to suggest the addition of power towers or substations in your area, this platform offers a great way to make a quick contribution. Taking images in the field with MapComplete is also key to validating satellite-based mapping where detailed, high-resolution images are missing. Taking images can also be important for deriving relevant metadata, such as wind [turbine power capacities](https://mapcomplete.org/openwindpowermap.html?z=13&lat=39.548330293512805&lon=9.219887340880064). We are currently working on extending this functionality to power towers to enable more accurate estimation of transmission line voltages.
 
-### <div class="stradegy-header">Reporting Issues in the Grid using iD</div></h3>
+### <div class="stradegy-header">Reporting Issues in the Grid Using iD</div></h3>
 
 The fastest and easiest way to contribute to your electrical grid is by adding notes where you see missing or incorrect information in OpenStreetMap. You can do this fully anonymously with no login required.
 
@@ -196,7 +196,7 @@ The fastest and easiest way to contribute to your electrical grid is by adding n
 
 Reporting such smaller issues will significantly improve the long-term quality of your local grid's data.
 
-### <div class="stradegy-header">Add Power Towers or Substations using iD</div></h3>
+### <div class="stradegy-header">Add Power Towers or Substations Using iD</div></h3>
 
 <div style="float: right; margin: 5px 0 10px 20px; width: 350px;">
   <img src="../images/starter-kit/easy-edit.jpg" class="img-border" style="width: 100%;">

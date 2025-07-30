@@ -195,11 +195,11 @@ async function initQueryUI() {
     line-height: 1.5;
   `;
   introBox.innerHTML = `
-    <strong>📍LOAD POWER INFRASTRUCTURE</strong><br/>
+    <strong>📍LOAD YOUR GRID INFRASTRUCTURE</strong><br/>
     <ol style="margin: 0.5em 0 0 1em; padding-left: 1em;">
       <li>Click on the country you want to load in JOSM. Zoom in to select states or provinces.</li>
-      <li>Click on Tools and Hints to download data layers to support grid mapping.</li>
-      <li>Don't forget to checkout the Map Legend, Good First Lines and Curated Electrical Grid Maps below.</li>
+      <li>Click on Tools and Hints to download the data layers that will support you in grid mapping.</li>
+      <li>Don't forget to checkout the Map Legend, Good First Lines, Hot Keys and Curated Electrical Grid Maps below.</li>
       
     </ol>
     `;
@@ -779,7 +779,7 @@ fetch('../data/regionsv2.geojson')
 
 
 <!-- ENd-->
-??? info "Map Legend for the recommended [MapCSS](starter-kit.md#3-add-visual-clarity-with-custom-map-styles) (Click Me)"
+??? success "Map Legend for the recommended [MapCSS](starter-kit.md#3-add-visual-clarity-with-custom-map-styles) (Click Me)"
     <img 
       src="https://raw.githubusercontent.com/open-energy-transition/color-my-grid/refs/heads/main/legend/power-grid-legend.png" 
       class="img-border image-caption" 

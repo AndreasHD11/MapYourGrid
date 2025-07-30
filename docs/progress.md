@@ -36,124 +36,125 @@ Our work supports better access to electricity across the globe. In the countrie
 
   <div class="country-card">
     <a href="/countrypages/Bangladesh/">
-      <img class="country-flag" src="http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Bangladesh.svg" alt="Bangladesh Flag">
-      <div>Bangladesh</div>
-    </a>
+      <img class="off-glb" src="http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Bangladesh.svg" alt="Bangladesh Flag">
+    </a> </br>  
+    <a href="/countrypages/Bangladesh/"> Bangladesh </a>
   </div>
 
   <div class="country-card">
     <a href="/countrypages/Benin/">
-      <img class="country-flag" src="http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Benin.svg" alt="Benin Flag">
-      <div>Benin</div>
-    </a>
+      <img class="off-glb" src="http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Benin.svg" alt="Benin Flag">
+    </a> </br>
+    <a href="/countrypages/Benin/">Benin</a>
   </div>
 
   <div class="country-card">
     <a href="/countrypages/Bolivia/">
-      <img class="country-flag" src="http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Bolivia.svg" alt="Bolivia Flag">
-      <div>Bolivia</div>
-    </a>
+      <img class="off-glb" src="http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Bolivia.svg" alt="Bolivia Flag">
+    </a> </br>
+    <a href="/countrypages/Bolivia/">Bolivia</a>
   </div>
 
   <div class="country-card">
     <a href="/countrypages/Bosnia%20and%20Herzegovina/">
-      <img class="country-flag" src="http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Bosnia%20and%20Herzegovina.svg" alt="Bosnia and Herzegovina Flag">
-      <div>Bosnia and Herzegovina</div>
-    </a>
+      <img class="off-glb" src="http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Bosnia%20and%20Herzegovina.svg" alt="Bosnia and Herzegovina Flag">
+    </a> </br>
+    <a href="/countrypages/Bosnia%20and%20Herzegovina/">Bosnia and Herzegovina</a>
   </div>
 
   <div class="country-card">
     <a href="/countrypages/Cambodia/">
-      <img class="country-flag" src="http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Cambodia.svg" alt="Cambodia Flag">
-      <div>Cambodia</div>
-    </a>
+      <img class="off-glb" src="http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Cambodia.svg" alt="Cambodia Flag">
+    </a> </br>
+    <a href="/countrypages/Cambodia/">Cambodia</a>
   </div>
 
   <div class="country-card">
     <a href="/countrypages/Colombia/">
-      <img class="country-flag" src="http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Colombia.svg" alt="Colombia Flag">
-      <div>Colombia</div>
-    </a>
+      <img class="off-glb" src="http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Colombia.svg" alt="Colombia Flag">
+    </a> </br>
+    <a href="/countrypages/Colombia/">Colombia</a>
   </div>
 
   <div class="country-card">
     <a href="/countrypages/Georgia/">
-      <img class="country-flag" src="http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Georgia.svg" alt="Georgia Flag">
-      <div>Georgia</div>
-    </a>
+      <img class="off-glb" src="http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Georgia.svg" alt="Georgia Flag">
+    </a> </br>
+    <a href="/countrypages/Georgia/">Georgia</a>
   </div>
 
   <div class="country-card">
     <a href="/countrypages/Kazakhstan/">
-      <img class="country-flag" src="http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Kazakhstan.svg" alt="Kazakhstan Flag">
-      <div>Kazakhstan</div>
-    </a>
+      <img class="off-glb" src="http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Kazakhstan.svg" alt="Kazakhstan Flag">
+    </a> </br>
+    <a href="/countrypages/Kazakhstan/">Kazakhstan</a>
   </div>
 
   <div class="country-card">
     <a href="/countrypages/Kenya/">
-      <img class="country-flag" src="http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Kenya.svg" alt="Kenya Flag">
-      <div>Kenya</div>
-    </a>
+      <img class="off-glb" src="http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Kenya.svg" alt="Kenya Flag">
+    </a> </br>
+    <a href="/countrypages/Kenya/">Kenya</a>
   </div>
 
   <div class="country-card">
     <a href="/countrypages/Mongolia/">
-      <img class="country-flag" src="http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Mongolia.svg" alt="Mongolia Flag">
-      <div>Mongolia</div>
-    </a>
+      <img class="off-glbg" src="http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Mongolia.svg" alt="Mongolia Flag">
+    </a> </br>
+    <a href="/countrypages/Mongolia/">Mongolia</a>
   </div>
 
   <div class="country-card">
     <a href="/countrypages/Nepal/">
-      <img class="country-flag" src="http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Nepal.svg" alt="Nepal Flag">
-      <div>Nepal</div>
-    </a>
+      <img class="off-glb" src="http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Nepal.svg" alt="Nepal Flag">
+    </a> </br>
+    <a href="/countrypages/Nepal/">Nepal</a>
   </div>
 
   <div class="country-card">
     <a href="/countrypages/Nigeria/">
-      <img class="country-flag" src="http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Nigeria.svg" alt="Nigeria Flag">
-      <div>Nigeria</div>
-    </a>
+      <img class="off-glb" src="http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Nigeria.svg" alt="Nigeria Flag">
+    </a> </br>
+    <a href="/countrypages/Nigeria/">Nigeria</a>
   </div>
 
   <div class="country-card">
     <a href="/countrypages/Pakistan/">
-      <img class="country-flag" src="http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Pakistan.svg" alt="Pakistan Flag">
-      <div>Pakistan</div>
-    </a>
+      <img class="off-glb" src="http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Pakistan.svg" alt="Pakistan Flag">
+    </a> </br>
+    <a href="/countrypages/Pakistan/">Pakistan</a>
   </div>
 
   <div class="country-card">
     <a href="/countrypages/Sri%20Lanka/">
-      <img class="country-flag" src="http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Sri%20Lanka.svg" alt="Sri Lanka Flag">
-      <div>Sri Lanka</div>
-    </a>
+      <img class="off-glb" src="http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Sri%20Lanka.svg" alt="Sri Lanka Flag">
+    </a> </br>
+    <a href="/countrypages/Sri%20Lanka/">Sri Lanka</a>
   </div>
 
   <div class="country-card">
     <a href="/countrypages/Turkmenistan/">
-      <img class="country-flag" src="http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Turkmenistan.svg" alt="Turkmenistan Flag">
-      <div>Turkmenistan</div>
-    </a>
+      <img class="off-glb" src="http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Turkmenistan.svg" alt="Turkmenistan Flag">
+    </a> </br>
+    <a href="/countrypages/Turkmenistan/">Turkmenistan</a>
   </div>
 
   <div class="country-card">
     <a href="/countrypages/Uganda/">
-      <img class="country-flag" src="http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Uganda.svg" alt="Uganda Flag">
-      <div>Uganda</div>
-    </a>
+      <img class="off-glb" src="http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Uganda.svg" alt="Uganda Flag">
+    </a> </br>
+    <a href="/countrypages/Uganda/">Uganda</a>
   </div>
 
   <div class="country-card">
     <a href="/countrypages/Uzbekistan/">
-      <img class="country-flag" src="http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Uzbekistan.svg" alt="Uzbekistan Flag">
-      <div>Uzbekistan</div>
-    </a>
+      <img class="off-glb" src="http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Uzbekistan.svg" alt="Uzbekistan Flag">
+    </a> </br>
+    <a href="/countrypages/Uzbekistan/">Uzbekistan</a>
   </div>
 
 </div>
+
 
 
 
