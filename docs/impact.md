@@ -318,9 +318,6 @@ Disclaimer: These organisations are not affiliated with MapYourGrid nor endorse 
     ![map](images/impact/roseau.jpg){: .img-border } 
 
 
-
-
-
 ## **<div class="tools-header">Responsible Grid Mapping: Understanding Risks and Mitigation?</div>**
 
 Openly mapping electricity transmission infrastructure is essential to achieving universal energy access, strengthening climate resilience, and enabling clean energy planning. But openness, especially in the realm of infrastructure, naturally raises questions about risk and security.
