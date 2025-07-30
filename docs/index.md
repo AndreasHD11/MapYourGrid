@@ -149,7 +149,7 @@ image: images/website/mapyourgrid-preview.jpg
 <div class="who-we-are-section">
 <h2>Who We Are</h2>
 <p class="lead-statement">
- MapYourGrid is a free, open-source initiative supported by the following organizations. We want to empower a global community of citizens and organizations to create and maintain data on the core infrastructures of our modern society. Our open data can be used in public administration, industry, academia, and more. Would you like to join or support us? Contact <a href="mailto:MapYourGrid@openenergytransition.org" target="_blank" rel="noopener">us via email</a>. 
+ MapYourGrid is a free, open-source initiative supported by the following organizations. We want to empower a global community of citizens and organizations to create and maintain data on the core infrastructures of our modern society. Would you like to join or support us? Contact <a href="mailto:MapYourGrid@openenergytransition.org" target="_blank" rel="noopener">us via email</a>. 
 </p>
 <div class="partners-grid">
 <div class="partner-item">

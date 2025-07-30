@@ -8,7 +8,7 @@ hide:
 # **Code of Mappers**
 ## For Responsible, Ethical, and Impactful Grid Mapping
 
-This Code of Mappers outlines the shared values, responsibilities, and safe practices for individuals and organizations participating in grid mapping activities in OpenStreetMap. It is designed to safeguard communities, promote transparency, and protect sensitive areas while enabling open data for global development and energy resilience.
+This Code of Mappers outlines the shared values, responsibilities, and safe practices for individuals and organizations participating in grid mapping activities in OpenStreetMap. It is designed to safeguard communities, promote transparency, and protect sensitive areas while enabling open data for global development and energy resilience. Read more Responsible Grid Mapping Understanding Risks and Mitigation on our [Impact Page](impact.md/#responsible-grid-mapping-understanding-risks-and-mitigation).
 
 ---
 
