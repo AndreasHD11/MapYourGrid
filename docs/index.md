@@ -34,7 +34,7 @@ image: images/website/mapyourgrid-preview.jpg
   <div class="initiative-content">
     <h2>Help Map the World's Electricity Grids to Power a Fossil-Free Future</h2>
     <iframe width="1280" height="720" style="height: auto; aspect-ratio: 16/9;" src="https://www.youtube.com/embed/6rcMVXc2lwc?si=JWOgvzKbadt2Nx9n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-    <p> Fossil fuels are responsible for over 75% of global greenhouse gas emissions. You can play a vital role in supporting the energy transition by helping to map electrical grids in your local area. These grids need modernization and expansion to meet the demands of electrification and decarbonization, but a lack of reliable data is a <a href="https://iea.blob.core.windows.net/assets/70f2de45-6d84-4e07-bfd0-93833e205c81/ElectricityGridsandSecureEnergyTransitions.pdf" target="_blank" rel="noopener">major barrier</a>. Grid data provides governments, utilities, developers, and researchers with the information needed to plan effectively. That's where you come in.</p>
+    <p> Fossil fuels are responsible for over <a href="https://www.iea.org/topics/climate-change">75% of global greenhouse gas emissions</a>. You can play a vital role in supporting the energy transition by helping to map electrical grids in your local area. These grids need modernization and expansion to meet the demands of electrification and decarbonization, but a lack of reliable data is a <a href="https://iea.blob.core.windows.net/assets/70f2de45-6d84-4e07-bfd0-93833e205c81/ElectricityGridsandSecureEnergyTransitions.pdf" target="_blank" rel="noopener">major barrier</a>. Grid data provides governments, utilities, developers, and researchers with the information needed to plan effectively. That's where you come in.</p>
     <p>In recent years, OpenStreetMap has emerged as the de facto standard for global electrical grid data. However, many developing countries are still lagging behind. This gap limits rural energy access and slows down climate action:</p>
     <blockquote class="blockquote">
       Improve data reliability and availability to better assess and manage risks for clean energy projects in emerging market and developing economies.
@@ -45,7 +45,7 @@ image: images/website/mapyourgrid-preview.jpg
     <h2>Towards a Globally Mapped Grid</h2>
     <p>
       We are working with the OpenStreetMap community, organisations and individuals around the world to not only create an 
-      <a href="https://www.nature.com/articles/s41597-025-04550-7" target="_blank" rel="noopener">open digital twin of the European grid</a>,but also to expand global transmission grid coverage in OSM from 70% to 98% by 2028. <strong>MapYourGrid enables this through training, multiple validation strategies, optimized open-source tools and community building.</strong></p>
+      <a href="https://www.nature.com/articles/s41597-025-04550-7" target="_blank" rel="noopener">open digital twin of the European grid</a>, but also to expand global transmission grid coverage in OSM from 70% to 98% by 2028. <strong>MapYourGrid enables this through training, multiple validation strategies, optimized open-source tools and community building.</strong></p>
 
   <a href="https://openinframap.org/#3.34/8.66/41.06/B,E,L,N,P" target="_blank">
   <img src="images/openinframap_crop.png" alt="Grid Illustration" class="initiative-content" style="width: 120%; border: 4px solid #2a6d3c;">
@@ -100,7 +100,7 @@ image: images/website/mapyourgrid-preview.jpg
   <div class="country-card"><a href="/countrypages/Kazakhstan/"><img class="country-flag off-glb" src="http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Kazakhstan.svg" alt="Kazakhstan Flag"></a></div>
   <div class="country-card"><a href="/countrypages/Kenya/"><img class="country-flag off-glb" src="http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Kenya.svg" alt="Kenya Flag"></a></div>
   <div class="country-card"><a href="/countrypages/Mongolia/"><img class="country-flag off-glb" src="http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Mongolia.svg" alt="Mongolia Flag"></a></div>
-  <div class="country-card"><a href="/countrypages/Nepal/"><img class="country-flag off-glb" src="http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Nepal.svg" alt="Nepal Flag"></a></div>
+  <div class="country-card"><a href="/countrypages/Nepal/"><img class="country-flag off-glb" src="http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Nepal.svg" alt="Nepal Flag" style="width: 35px; height: auto;"></a></div>
   <div class="country-card"><a href="/countrypages/Nigeria/"><img class="country-flag off-glb" src="http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Nigeria.svg" alt="Nigeria Flag"></a></div>
   <div class="country-card"><a href="/countrypages/Pakistan/"><img class="country-flag off-glb" src="http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Pakistan.svg" alt="Pakistan Flag"></a></div>
   <div class="country-card"><a href="/countrypages/Sri%20Lanka/"><img class="country-flag off-glb" src="http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Sri%20Lanka.svg" alt="Sri Lanka Flag"></a></div>
