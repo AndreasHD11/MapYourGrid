@@ -344,6 +344,18 @@ MapYourGrid layers additional tools, methodologies, and community-driven feedbac
     * Isolated or unconnected transmission lines
     * Redundant or deprecated tagging
 
+    Osmose QA has items and classes, these can be thought of as categories with items listed inside each category. Being a global tool, Osmose does quality checks on many layers of the OSM data beyond the power infrastructures. It is important to know what items and issues are of value for transmission grid mapping. This list of relevant issues are what is made available in the “Map It” section of the website.
+
+    | Item | Class | Description                              | Summary                                                                                                                   |
+    | ---- | ----- | ---------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+    | 7040 | 1     | Lone Power Towers or Poles               | This tower should surely be connected to a power line                                                                     |
+    |      | 2     | Unfinished Power Transmission line       | The line ends in a vacuum, and should be connected to another line or a transformer (`power=`) or a generator (`power=`). |
+    |      | 3     | Connection between different Voltages    | Two lines meet at one point, but have inconsistent voltages (`voltage=*`)                                                 |
+    |      | 4     | None Power node on Power Way             | If this node is a tower or pole, tag with `power=`; else remove it.                                                       |
+    |      | 5     | Missing Power Tower or Pole              | Based on pole spacing, one appears to be missing on this line.                                                            |
+    |      | 6     | Unfinished Power Distribution line       | The distribution line ends in a vacuum, and should connect to another distribution line or power structure.               |
+    |      | 7     | Unmatched Voltage of line on Substation  | Ensure the voltage of lines matches the substation's rated voltage.                                                       |
+
     These issues are visualized directly in [Open Infrastructure Map](https://openinframap.org/#2/26/12), giving mappers clear targets for improving the dataset. 
     <div style="float: right; margin: 5px 0 20px 20px; width: 350px;">
     <img src="../images/kenya-tanzania.jpg" class="img-border" alt="PPM Rejected Power Plants GeoJSON">
