@@ -100,7 +100,7 @@ image: images/website/mapyourgrid-preview.jpg
   <div class="country-card"><a href="/countrypages/Kazakhstan/"><img class="country-flag off-glb" src="http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Kazakhstan.svg" alt="Kazakhstan Flag"></a></div>
   <div class="country-card"><a href="/countrypages/Kenya/"><img class="country-flag off-glb" src="http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Kenya.svg" alt="Kenya Flag"></a></div>
   <div class="country-card"><a href="/countrypages/Mongolia/"><img class="country-flag off-glb" src="http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Mongolia.svg" alt="Mongolia Flag"></a></div>
-  <div class="country-card"><a href="/countrypages/Nepal/"><img class="country-flag off-glb" src="http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Nepal.svg" alt="Nepal Flag"></a></div>
+  <div class="country-card"><a href="/countrypages/Nepal/"><img class="country-flag off-glb" src="http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Nepal.svg" alt="Nepal Flag" style="width: 35px; height: auto;"></a></div>
   <div class="country-card"><a href="/countrypages/Nigeria/"><img class="country-flag off-glb" src="http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Nigeria.svg" alt="Nigeria Flag"></a></div>
   <div class="country-card"><a href="/countrypages/Pakistan/"><img class="country-flag off-glb" src="http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Pakistan.svg" alt="Pakistan Flag"></a></div>
   <div class="country-card"><a href="/countrypages/Sri%20Lanka/"><img class="country-flag off-glb" src="http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Sri%20Lanka.svg" alt="Sri Lanka Flag"></a></div>
