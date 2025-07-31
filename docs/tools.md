@@ -355,9 +355,6 @@ MapYourGrid layers additional tools, methodologies, and community-driven feedbac
     |      | 5     | Missing Power Tower or Pole              | Based on pole spacing, one appears to be missing on this line.                                                            |
     |      | 6     | Unfinished Power Distribution line       | The distribution line ends in a vacuum, and should connect to another distribution line or power structure.               |
     |      | 7     | Unmatched Voltage of line on Substation  | Ensure the voltage of lines matches the substation's rated voltage.                                                       |
-    |      | 8     | Power support line management suggestion |                                                                                                                           |
-    |      | 95    | Missing power=line in the area           |                                                                                                                           |
-
 
     These issues are visualized directly in [Open Infrastructure Map](https://openinframap.org/#2/26/12), giving mappers clear targets for improving the dataset. 
     <div style="float: right; margin: 5px 0 20px 20px; width: 350px;">
