@@ -139,7 +139,7 @@ Large industrial facilities require huge amounts of energy and therefore have th
 1. Press CTRL+F and filter by `type:way landuse=industrial`.
 1. With the installed Todo plugin window press `Add`. 
 1. Switch back to your transmission grid layer.
-1. You can now step trouth all substations by pressing `Mark`.
+1. You can now step through all substations by pressing `Mark`.
 
 For more highly industrialised countries, loading all industries from OSM can sometimes lead to an overwhelming amount of information. When this happens, it can be convenient to filter out smaller industries that may not offer useful insights. To do this, we have the [osm-industries](https://github.com/open-energy-transition/osm-industries) tool. This script allows you to create a layer of filtered industries that you can load into JOSM as a GeoJSON file. The script also lets you specify your own threshold value for filtering, with the default set to 10,000 sqm (1 hectare).
 
@@ -218,7 +218,7 @@ OpenStreetMap allows mappers to quickly mark an object that seems to be wrong an
 ### <div class="tools-header">Open Infrastructure Map - Nighttime Lights and Osmose </div></h3>
 <div style="float: right; margin: 5px 0 20px 20px; width: 350px;">
     <img src="../images/openinfraosmose.jpg" class="img-border" alt="Open Infrastructure Map - Osmose">
-    <figcaption class="image-caption">Open Infrastructure Map also includes the osmose issus in the grid as another layer.</figcaption>
+    <figcaption class="image-caption">Open Infrastructure Map also includes the osmose issues in the grid as another layer.</figcaption>
 </div>
 
 1. Open Infrastructure Map can be used as a tool to map and find issues by utilising the nighttime lights feature.
@@ -250,7 +250,7 @@ This tool estimates the voltage of a substation busbar from aerial imagery by me
 </div>
 
 1. Download the `PowerNetworkTools` plugin for JOSM. Go to Edit > Preferences. Search for `PowerNetworkTools`, select it and press OK. 
-1. Activate the Volage Estimator in the `Windows` menu.
+1. Activate the Voltage Estimator in the `Windows` menu.
 1. Press V to measure the distance between the two phases at the busbar.
 1. Read more about how to use the plugin in the README of the [official repository](https://github.com/openinframap/josm-power-network-tools).
 
@@ -279,7 +279,7 @@ Interconnectors between countries are essential to the functioning of the transm
     </figcaption>   
 </div>
 
-You can access this data through our [Map It📍](https://MapYourGrid.org/map-it/) interface. Select the <strong>powerplantmatching</strong> button and click on any country to download a GeoJSON file listing rejected power plants. Once downloaded, the file can be opened in JOSM as a hint layer to help improve tagging. You can do this by reviewing the reason why the power plant was not considered and adding the missing data. For example, a common reason is the lack of a technology tag like <code>plant:method=run-of-river</code> or <code>plant:method=reservoir</code> on hydro power plants, or <code>plant:method=wind_turbine</code> on wind farms relations.
+You can access this data through our [Map It📍](https://MapYourGrid.org/map-it/) interface. Select the <strong>powerplantmatching</strong> button and click on any country to download a GeoJSON file listing rejected power plants. Once you've downloaded the file open it JOSM as a hint layer to help improve tagging. You can do this by reviewing the reason why the power plant was not considered and adding the missing data. For example, a common reason is the lack of a technology tag like <code>plant:method=run-of-river</code> or <code>plant:method=reservoir</code> on hydro power plants, or <code>plant:method=wind_turbine</code> on wind farms relations.
 
 
 Follow the steps below to help improve rejected power plants in OSM:
@@ -311,14 +311,14 @@ MapYourGrid layers additional tools, methodologies, and community-driven feedbac
 
 1. **User Feedback and Crowdsourced Issue Reporting**
 
-    We encourage anyone using [Open Infrastructure Map](https://openinframap.org/#2/26/12) to report issues using the **#MapYourGrid** hashtag. Notes can be added without an account, lowering the barrier to participation. These community-sourced observations help identify outdated, misclassified, or missing infrastructure. This is making user feedback a cornerstone of validation.
+    We encourage anyone using [Open Infrastructure Map](https://openinframap.org/#2/26/12) to report issues using the **#MapYourGrid** hashtag. Notes can be added without an account, lowering the barrier to participation. These community-sourced observations help identify outdated, misclassified, or missing infrastructure. This makes user feedback a cornerstone of validation.
 
 
 2. **Pre-Upload Error Detection with JOSM Validator**
 
-    Before data is uploaded to OpenStreetMap, it is automatically scanned using the [JOSM Validator](https://josm.openstreetmap.de/wiki/Help/Dialog/Validator). This tool checks for common mapping errors such as: Illogical tag combinations, Unusual geometries (e.g., excessively long spans between power towers) or incomplete or deprecated data.
+    Before data is uploaded to OpenStreetMap, it is automatically scanned using the [JOSM Validator](https://josm.openstreetmap.de/wiki/Help/Dialog/Validator). This tool checks for common mapping errors such as: Illogical tag combinations, unusual geometries (e.g., excessively long spans between power towers) or incomplete or deprecated data.
 
-    Warnings are prominently flagged, and mappers are discouraged from uploading until they are resolved, promoting a high standard of data hygiene.
+    Warnings are prominently flagged, and mappers are discouraged from uploading until the issues are resolved, promoting a high standard of data hygiene.
 
 
 3. **Visual Quality Checks with Custom Map Styles**
@@ -333,7 +333,7 @@ MapYourGrid layers additional tools, methodologies, and community-driven feedbac
     * New contributors working through tutorials
     * Edits based on unclear or low-resolution satellite imagery
 
-    These reviews can involve experienced mappers or electrical grid specialists, offering both technical accuracy and mentoring.
+    These reviews can involve experienced mappers or electrical grid specialists, providing both technical accuracy and mentorship.
 
 
 5. **Daily Automated Quality Assurance via Osmose**
@@ -344,7 +344,7 @@ MapYourGrid layers additional tools, methodologies, and community-driven feedbac
     * Isolated or unconnected transmission lines
     * Redundant or deprecated tagging
 
-    Osmose QA has items and classes, these can be thought of as categories with items listed inside each category. Being a global tool, Osmose does quality checks on many layers of the OSM data beyond the power infrastructures. It is important to know what items and issues are of value for transmission grid mapping. This list of relevant issues are what is made available in the “Map It” section of the website.
+    Osmose QA has items and classes, these can be thought of as categories with items listed inside each category. Being a global tool, Osmose does quality checks on many layers of the OSM data beyond the power infrastructures. It is important to know what items and issues are of value for transmission grid mapping. This list of relevant issues is what is made available on the [Map It📍](https://MapYourGrid.org/map-it/) page:
 
     | Item | Class | Description                              | Summary                                                                                                                   |
     | ---- | ----- | ---------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
