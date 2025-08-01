@@ -2,9 +2,19 @@
 <h1>Questions & Answers</h1>
 </div>
 
-Here is a compilation of the most frequently asked questions we receive. If you have further questions or inquiries you can directly contact <a href="mailto:MapYourGrid@openenergytransition.org" target="_blank" rel="noopener">us via email</a>
+Here is a compilation of the most frequently asked questions we receive. 
 
-## <div class="stradegy-header">General Questions </div></h3>
+<div class="starter-kit-buttons">
+  <a href="#general-questions" class="btn btn-primary"> General Questions</a>
+  <a href="#contribution-in-openstreetmap" class="btn btn-secondary"> Contribution in OpenStreetMap</a>
+  <a href="#power-grid-mapping" class="btn btn-secondary"> Power Grid Mapping</a>
+</div>
+
+If you have further questions or inquiries you can directly contact <a href="mailto:MapYourGrid@openenergytransition.org" target="_blank" rel="noopener">us via email</a>.
+
+---
+
+## <div class="stradegy-header">General Questions</div></h3>
 
 ### <div class="tools-header">Who are you? What is MapYourGrid?</div>
 
@@ -12,15 +22,15 @@ MapYourGrid is an open, collaborative initiative that aims to map electricity gr
 
 ### <div class="tools-header">What is included in the Scope of the Project?</div>
 
-Our main focus is mapping transmission power grids, primarily power lines and cables, and connecting them to substation perimeters. We map transmission lines that link cities. The transmission grid infrastructure is so large that it can be traced and mapped using open satellite images. However, the distribution grid cannot be mapped sufficiently well using open satellite images alone and therefore requires strong collaboration with local communities and authorities. For this reason, this is not currently our main focus. If you are interested in contributing to the distribution side, however, you should start by mapping distribution substations, most of which can also be classified using satellite images. If you are local and/or have local knowledge, you are welcome to map any infrastructure you are familiar with.
+Our main focus is mapping transmission power grids, primarily power lines and cables, and connecting them to substation perimeters. We map transmission lines that link cities. The transmission grid infrastructure is so large that it can be traced and mapped using open satellite images. However, the distribution grid cannot be mapped sufficiently well using open satellite images alone and therefore requires strong collaboration with local communities and authorities. For this reason, this is not currently our main focus.
 
 ### <div class="tools-header">Won't all of this be solved by AI soon?</div>
-To ensure data quality, each data point in OpenStreetMap must be set and validated by a human. This prevents OpenStreetMap from becoming flooded with synthetic, unvalidated data that would not be suitable as ground truth in the long term. Furthermore, there are currently no detection methods that can accurately identify power towers and the course of transmission lines using classic RGB satellites alone. Grid mapping is a task that requires a high degree of expertise and contextual understanding. Due to the high relevance of this data, stochastic generation of the grid by AI is also not recommended. To validate this data, specialists must perform active grid mapping. However, we are currently evaluating the use of [open-source substation detection based on Sentinel 2 data](https://github.com/Lindsay-Lab/substation-seg) to provide another hint layer of substations for the mappers. By contrast, in many cases, synthetic data is often the only source that can be used to estimate the grid distribution with reasonable effort. OpenStreetMap's distribution and transmission grid substations are essential for creating ground truth data [for AI-based estimation of distribution grid data](https://www.nature.com/articles/s41467-023-39647-3).
+To ensure data quality, each data point in OpenStreetMap must be set and validated by a human. This prevents OpenStreetMap from becoming flooded with synthetic, unvalidated data that would not be suitable as ground truth in the long term. Furthermore, there are currently no detection methods that can accurately identify power towers and the course of transmission lines using classic RGB satellites alone. Grid mapping is a task that requires a high degree of expertise and contextual understanding. Due to the high relevance of this data, stochastic generation of the grid by AI is also not recommended. To validate this data, specialists must perform active grid mapping. However, we are currently evaluating the use of [open-source substation detection based on Sentinel 2 data](https://github.com/Lindsay-Lab/substation-seg) to provide another hint layer of substations for the mappers. 
 
 
 ### <div class="tools-header">Does Publishing this Data Create a Security Risk?</div>
 
-No, publishing grid data through MapYourGrid does not meaningfully increase security risks. This concern is understandable. After all, electrical grids are critical infrastructure. However, multiple studies and real-world practices show that open grid data does not elevate threat levels, for several key reasons:
+No, publishing grid data through MapYourGrid does not meaningfully increase security risks. This concern is understandable because electrical grids are critical infrastructure. However, multiple studies and real-world practices show that open grid data does not elevate threat levels, for several key reasons:
 
 * Much of the grid is already visible and documented. Transmission lines are easily observable in satellite imagery and by anyone on the ground. Most substations are already in platforms like Google Maps. Major institutions, including government agencies, have publicly shared detailed grid data for decades.
 
@@ -74,30 +84,34 @@ Our project is global. Currently, we mainly focus on low and middle-income count
 
 ### <div class="tools-header"> How do you map all those Power Grids? </div>
 
-We use a variety of sources, primarily satellite imagery, as well as other open data, academic articles and crowdsourced information from OpenStreetMap, to enhance our knowledge.
+We use a variety of sources, primarily satellite imagery, as well as other open data, academic articles and crowdsourced information from OpenStreetMap, to enhance our knowledge. We also use different tools (JOSM, Osmose, OpenInfraMap) to upload this data into OpenStreetMap.
+
+---
 
 ## <div class="stradegy-header">Contribution in OpenStreetMap </div></h3>
 
 ### <div class="tools-header"> How can I join the Project? </div>
 
-Start by contributing to OpenStreetMap (OSM). Additionally, you can get involved in local OSM communities, join our free mapping workshops and connect with us on [Discord](https://discord.gg/a5znpdFWfD).  
+Start by contributing to OpenStreetMap (OSM). Additionally, you can get involved in local OSM communities, join our free mapping workshops and connect with us on [Discord](https://discord.gg/a5znpdFWfD). 
 
 ### <div class="tools-header"> What Skills do I need to Contribute? </div>
 
 For general mapping, you need basic mapping skills and understanding of OSM, the ability to read and map over satellite images. Local knowledge and/or language skills with regards to the country/area you would like to map are much appreciated. 
 
-For tech contributors, you may need Python, Data viz, community workflows, OSM mapping tools.  
+If you are a developper, you can also help us improve mapping and quality assessment tools.  
 
 An understanding of the energy context and power grid composition is a strong asset, that can be acquired. 
 
-### <div class="tools-header"> I have Information about my Country's Power Grid, but I'm not sure if it's Open Data. Can I share it? </div>
+We also host regular training sessions in order to help contributors develop their skills and feel more confident.
+
+### <div class="tools-header"> I have Information about my Country's Power Grid, but I'm not sure if it's Open Data. Can I us it for grid mapping ? </div>
 
 Check the credibility of the source and the licensing terms before using it as a source in OpenStreetMap. Some sources may be inaccurate, outdated, or incompatible with OSM’s licensing. Whenever possible, it's best to ask the data provider for explicit permission to use or reference their data, especially if the licensing is unclear. When in doubt, discuss with the local OSM community before using or referencing external data. 
 
 ### <div class="tools-header"> I have found open data regarding my country. How can I share it?</div>
 
-Visit the relevant Country page on the OSM Wiki: https://wiki.openstreetmap.org/wiki/Power_networks
-Help enrich or verify existing information there. 
+Check out the relevant  [Country page on the OSM Wiki](https://wiki.openstreetmap.org/wiki/Power_networks#Local_projects). We've reported all data sources there we're awere of there. Help us enrich and verify existing information.
+
 
 ### <div class="tools-header"> Is open data always reliable? </div>
 
@@ -105,7 +119,7 @@ Open data quality varies. Cross-check it when possible. If you're local, field v
 
 ### <div class="tools-header"> Can I import any Data into OpenStreetMap? </div>
 
-Bulk imports are usually discouraged and must follow strict OSM guidelines. Contact your local OSM communities before attempting imports.  
+Bulk imports are strongly discouraged and must follow strict OSM guidelines. Contact your local OSM communities before attempting imports.  
 
 ### <div class="tools-header"> Can I reuse OpenStreetMap data?</div>
 
@@ -115,8 +129,8 @@ Yes, as long as you credit OSM properly. Note that if you improve OSM data, you 
 
 These are tools for editing and validating data in OSM:
 
-* iD: browser-based and beginner-friendly editor. It is the editor available when you click on "edit" on the [OSM website](https://openstreetmap.org)
-* JOSM: advanced OpenStreetMap editor. Desktop software available at [https://josm.openstreetmap.de](https://josm.openstreetmap.de )
+* [iD](https://openstreetmap.org): browser-based and beginner-friendly editor. It is the editor available when you click on "edit" on the OSM website. 
+* [JOSM](https://josm.openstreetmap.de/): advanced OpenStreetMap editor.
 * [Osmose](https://osmose.openstreetmap.fr): quality assurance tool that detects OpenStreetMap data issues.
 
 ### <div class="tools-header"> What is a Changeset? </div>
@@ -125,7 +139,7 @@ It's a group of edits submitted to OSM at once. It also includes the time and pu
 
 ### <div class="tools-header"> How do I credit my Contributions in OpenStreetMap for MapYourGrid?</div>
 
-Add the hashtag #MapYourGrid to the comment field in your changeset. This helps us track and showcase the community's work.
+Add the hashtag **#MapYourGrid** to the comment field in your changeset. This helps us track and showcase the community's work.
 
 ### <div class="tools-header"> Who fixes Errors I might make while Mapping? </div>
 
@@ -136,6 +150,8 @@ OpenStreetMap relies on community editing and review. Not every edit is systemat
 Before uploading your edits in JOSM, you may get validation errors and warnings, with a short explanation on what is the problem. You should resolve most (if not all) issues before finishing your upload to OSM. 
 
 OSM tools like [Osmose](https://osmose.openstreetmap.fr/) flag potential errors. You might receive suggestions to fix or review them afterwards.
+
+---
 
 ## <div class="stradegy-header">Power Grid Mapping </div></h3>
 

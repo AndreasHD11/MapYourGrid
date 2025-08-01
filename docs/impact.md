@@ -7,7 +7,7 @@ Across the globe, OpenStreetMap has proven its value in generating high-quality,
 <div class="starter-kit-buttons">
   <a href="#strategic-use-cases-energy-disaster-response-and-development" class="btn btn-primary">
   Strategic Use Cases: Energy, Disaster Response and Development</a>
-  <a href="#why-osm-matters-for-the-electrical-grid" class="btn btn-secondary">Why OSM matters for the Electrical Grid?</a>
+  <a href="#why-osm-matters-for-the-electrical-grid" class="btn btn-secondary">Why OSM Matters for the Electrical Grid?</a>
   <a href="#why-open-grid-data-matters" class="btn btn-secondary">
   Why Open Grid Data Matters?</a>
   <a href="#who-is-using-openstreetmap-grid-data" class="btn btn-secondary">  Who is using OpenStreetMap Grid Data? </a>
@@ -40,7 +40,7 @@ OpenStreetMap’s unique value in creating high quality data for sustainable dev
 
 
 
-## **<div class="tools-header">Why OSM matters for the Electrical Grid?</div>**
+## **<div class="tools-header">Why OSM Matters for the Electrical Grid?</div>**
 
 
 OpenStreetMap’s electrical grid data is widely used by grid operators, academic institutions, government agencies, local authorities, and private organizations. It plays a crucial role in energy modeling and planning, shaping policy development and guiding investment decisions. 
@@ -356,6 +356,7 @@ Disclaimer: These organisations are not affiliated with MapYourGrid nor endorse 
 Mapping electricity transmission infrastructure is essential to reaching universal energy access, strengthening climate resilience, and enabling clean energy planning. But openness, especially in the realm of infrastructure, naturally raises questions about risk and security.
 
 At MapYourGrid, we take these concerns seriously. This section explains : 
+
 * What risks actually exist with open grid data, 
 * Why the benefits of responsible mapping far outweigh them, 
 * How we mitigate potential harms through careful, community-informed practices. 
