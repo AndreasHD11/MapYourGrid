@@ -2,11 +2,7 @@
 <h1>Impact </h1>
 </div>
 
-MapYourGrid helps map electricity transmission grids worldwide using the power of crowdsourced data from OpenStreetMap.
-
-Across the globe, OpenStreetMap has proven its value in generating high-quality, open data to support sustainable development and energy access.
-
-Use the buttons below to explore that impact: who’s using the data, why it matters, and how we map the grid responsibly.
+Across the globe, OpenStreetMap has proven its value in generating high-quality, open data to support sustainable development and energy access.Use the buttons below to explore that impact: who’s using the data, why it matters, and how we map the grid responsibly.
 
 <div class="starter-kit-buttons">
   <a href="#strategic-use-cases-energy-disaster-response-and-development" class="btn btn-primary">
@@ -28,7 +24,7 @@ OpenStreetMap’s unique value in creating high quality data for sustainable dev
 
   <a href="https://pypsa-earth.readthedocs.io/en/latest/index.html" target="_blank">
   <img src="../images/impact/pypsa-earth-india.jpg" class="img-border" style="width: 100%;"> </a>
-  <figcaption class="image-caption">The PyPSA-Earth open-source energy system model uses OpenStreetMap data to study the future of energy around the world. Click to enlarge.</figcaption>
+  <figcaption class="image-caption">The <a href="https://pypsa-earth.readthedocs.io/en/latest/">PyPSA-Earth</a> open-source energy system model uses OpenStreetMap data to study the future of energy around the world. Click to enlarge.</figcaption>
 
   <a href="https://map.vida.place/public/workspace/a6a89f8a-f472-45b0-8674-fcf6d7b4c7e3" target="_blank">
   <img src="../images/impact/DRE-pakistan.jpg" class="img-border" style="width: 100%;"> </a>
@@ -135,7 +131,7 @@ Access to open and accurate data on electricity infrastructure is essential for 
 <div style="float: right; margin: 5px 0 20px 20px; width: 350px;">
   <a href="https://ember-energy.org/latest-insights/africa-electricity-data-transparency/" target="_blank">
   <img src="../images/impact/ember-africa.jpg" class="img-border" style="width: 100%;"> </a>
-  <figcaption class="image-caption"> <a href="https://ember-energy.org/latest-insights/africa-electricity-data-transparency/" target="_blank"> Ember - Africa Electricity Data Transparency 2025 </a>- Click to enlarge.</figcaption>
+  <figcaption class="image-caption"> <a href="https://ember-energy.org/latest-insights/africa-electricity-data-transparency/" target="_blank"> Ember's Africa Electricity Data Transparency 2022 </a>- Click to enlarge.</figcaption>
 </div> 
 
 In many low- and middle-income countries, data on electrical infrastructure is often **outdated, incomplete, or fragmented**, making it difficult for governments, utilities, and planners to take informed action. 
