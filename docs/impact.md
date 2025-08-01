@@ -106,7 +106,7 @@ Access to open and accurate data on electricity infrastructure is essential for 
 <div style="float: right; margin: 5px 0 20px 20px; width: 350px;">
   <a href="https://ember-energy.org/latest-insights/africa-electricity-data-transparency/" target="_blank">
   <img src="../images/impact/ember-africa.jpg" class="img-border" style="width: 100%;"> </a>
-  <figcaption class="image-caption"> <a href="https://iea.blob.core.windows.net/assets/a688d0f5-a100-447f-91a1-50b7b0d8eaa1/BuildingtheFutureTransmissionGrid.pdf" target="_blank"> Ember - Africa Electricity Data Transparency 2025 </a>- Click to enlarge.</figcaption>
+  <figcaption class="image-caption"> <a href="https://ember-energy.org/latest-insights/africa-electricity-data-transparency/" target="_blank"> Ember - Africa Electricity Data Transparency 2025 </a>- Click to enlarge.</figcaption>
 </div> 
 
 In many low- and middle-income countries, data on electrical infrastructure is **outdated, incomplete, or fragmented**. This presents a significant barrier for governments, utilities, and planners. Even in high-income countries, while data may be more comprehensive, it is often **not publicly available** or limited by restrictive licensing. This hinders transparency and the ability to collaborate or validate results.
@@ -353,7 +353,7 @@ OpenStreetMap does not introduce new forms of visibility through raw imagery, bu
 <div style="float: right; margin: 5px 0 20px 20px; width: 350px;">
   <img src="../images/impact/ember-data-asia.jpg" class="img-border" style="width: 100%;"> 
   <figcaption class="image-caption">
-     <a href="https://ember-energy.org/latest-insights/asia-data-transparency-report-2023/" target="_blank">Based on the Asia Data Transparency Report by Ember</a>, a large part of South East Asia lacks public energy data.
+     <a href="https://ember-energy.org/latest-insights/asian-electricity-data-transparency/" target="_blank">Based on the Asia Data Transparency Report by Ember</a>, a large part of South East Asia lacks public energy data.
   </figcaption>
 </figure>
 </div> 
