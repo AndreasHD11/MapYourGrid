@@ -12,7 +12,7 @@ nav:
   - TOOLS AND STRATEGIES: tools.md
   - OUR PROGRESS : progress.md
   - QUESTIONS? : questions.md
-  #- BLOG:
+  - BLOG : aboutus_blog.md
   #    2025:
   #      - "Liberate the Grid": blog/firstrename.md
 
