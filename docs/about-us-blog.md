@@ -1,5 +1,5 @@
 <div class="page-headers">
-<h1>Blog </h1>
+<h1>Blog & Team </h1>
 </div>
 
 
@@ -45,7 +45,7 @@ MapYourGrid is powered by a diverse team of experts working across energy, data,
  <div class="team-member">
   <img src="../images/team-members/daviddiaz.jpg" alt="David Díaz">
   
-  <div><strong>David Díaz MSc</strong></div>
+  <div><strong>David Díaz</strong></div>
   <div class="company-logo">
     <a href="https://www.openenergytransition.org/" target="_blank" rel="noopener">
       <img src="../images/logos/oet-logo.png" alt="OET Logo">
