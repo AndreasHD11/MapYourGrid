@@ -5,12 +5,13 @@ The MapYourGrid community takes your privacy seriously. To better protect your p
 
 ## Collection of Routine Information
 
-This website tracks basic information about their visitors. This information includes, IP addresses, browser details, timestamps and referring pages. None of this information can personally identify specific visitors to this website. The information is tracked for routine administration and maintenance purposes.
+This website tracks basic information about their visitors. This information includes, IP addresses, browser details, timestamps and referring pages. None of this information can personally identify specific visitors to this website. The information is tracked for routine administration and maintenance purposes. Specifically, this site uses Umami (an open-source, privacy-friendly analytics alternative to Google Analytics).
 
 
 ## Cookies
 
 This websites does not use cookies to store information about a visitor’s preferences and history.
+Embedded YouTube videos use privacy-enhanced mode, which prevents YouTube from storing cookies until the video is played.
 
 
 ## Advertisement and Other Third Parties
