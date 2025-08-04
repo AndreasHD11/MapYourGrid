@@ -864,3 +864,59 @@ aside.md-banner a>div {
   align-items: center;
 }
 
+/* --- Team members grid on Blog page --- */
+
+.team-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: 30px;
+  justify-items: center;
+  margin-bottom: 40px;
+}
+
+.team-member {
+  text-align: center;
+}
+.team-member img {
+  width: 120px;
+  height: 120px;
+  object-fit: cover;
+  border-radius: 50%;
+  margin-bottom: 10px;
+}
+
+.company-logo {
+  margin-top: 8px;
+}
+
+.company-logo img {
+  max-height: 30px;
+  object-fit: contain;
+  opacity: 0.8;
+  border-radius: 0;
+  transition: opacity 0.3s;
+  vertical-align: middle;
+}
+
+.company-logo a:hover img {
+  opacity: 1;
+}
+
+.social-icons {
+  margin-top: 6px;
+  display: flex;
+  justify-content: center;
+  gap: 8px;
+}
+
+.social-icons img {
+  width: 22px;
+  height: 22px;
+  opacity: 0.75;
+  border-radius:0;
+  transition: opacity 0.3s;
+}
+
+.social-icons a:hover img {
+  opacity: 1;
+}

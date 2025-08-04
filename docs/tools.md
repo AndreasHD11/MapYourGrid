@@ -3,6 +3,18 @@
 </div>
 Using the right tools and strategies is fundamental to mapping the electrical grid efficiently and accurately. The following strategies and tools will help you to extend existing transmission grid networks on OpenStreetMap. 
 
+Learn more on our recommended tools and strategies by clicking on the buttons : 
+
+<div class="starter-kit-buttons">
+  <a href="#introduction" class="btn btn-primary">Introduction</a> 
+  <a href="#pioneer-mapping-strategies-and-tools" class="btn btn-secondary">Pioneer Mapping Strategies and Tools</a>
+  <a href="#technical-mapping-strategies" class="btn btn-secondary">Technical Mapping Strategies</a>
+  <a href="#quality-assurance-and-validation" class="btn btn-secondary">Quality Assurance and Validation</a>
+</div>
+
+## <div class="stradegy-header">Introduction</div></h3>
+
+
 > As a rule of thumb: **The larger the towers and substations, the higher the voltage and the greater their relevance to the transmission grid. Priority should therefore be given to large, high-voltage infrastructure first.** 
 
 Please consider the following strategies and the associated processes as recommendations only. Ultimately, the most efficient strategy is the one that enables you to work on the electrical grid with passion and motivation over a longer period of time. The strategies can be divided into two phases, with a quality assurance and validation process running alongside them.
@@ -15,6 +27,18 @@ Please consider the following strategies and the associated processes as recomme
 
 
 ## <div class="stradegy-header">Pioneer Mapping Strategies and Tools</div></h3>
+
+<div class="tool-buttons">
+  <a href="#todo-plugin" class="btn btn-primary">Todo Plugin</a> 
+  <a href="#map-fast" class="btn btn-secondary">Map Fast</a>
+  <a href="#copy-coordinates-from-and-into-josm" class="btn btn-secondary">Coordinates and JOSM</a>
+  <a href="#continue-open-lines" class="btn btn-secondary">Continue Open Lines</a>
+  <a href="#spot-the-gaps-in-the-grid" class="btn btn-secondary">Spot the Gaps in the Grid</a>
+  <a href="#connect-power-plants" class="btn btn-secondary">Connect Power Plants</a>
+  <a href="#connect-substations" class="btn btn-secondary">Connect Substations </a>
+  <a href="#connect-industrial-areas" class="btn btn-secondary">Connect Industrial Areas </a>
+  <a href="#connect-wikidata" class="btn btn-secondary">Connect WikiData</a>
+</div>
 
 ### **<div class="tools-header">Todo Plugin :white_check_mark:</div>**
 The Todo plugin is used for almost all pioneer mapping strategies, systematically stepping through a dataset of `hints`.
@@ -49,7 +73,7 @@ To map efficiently and quickly, you need to know how to select all the nodes alo
 1. If you ever lose this query, click the right arrow on the search window and select it from your history.
 
 
-### <div class="tools-header">Copy Coordinates from and into JOSM </div>
+### <div class="tools-header">Copy Coordinates from and into JOSM</div>
 
 There are many reasons why you might want to share your location with someone else. Many popular mapping platforms allow you to copy coordinates from a map by right-clicking on an arbitrary position.
 
@@ -172,13 +196,25 @@ WikiData provides access to Wikipedia articles about power infrastructure around
     <figcaption class="image-caption">WikiData QID enables Open Infrastructure Map to link to databases like Global Energy Monitor.</figcaption>   
 </div>
 
+<br>
+
 #### Linking OpenStreetMap to WikiData
 
  Linking other datasets to OpenStreetMap objects, such as power plants, can significantly enrich the data and help to avoid licence issues. Often, other data catalogues provide more up-to-date information about objects than OpenStreetMap. WikiData provides an excellent means of linking all these different data sources together in a standardised way. The datasets we provide will also include the [WikiData QID](https://wiki.openstreetmap.org/wiki/Key:Wikidata). Adding these QIDs to OpenStreetMap objects greatly improves the quality and usability of data relating to power plants, substations, and interconnectors.
 
-<br>
+<br><br><br><br>
 
 ## <div class="stradegy-header">Technical Mapping Strategies</div></h2>
+  
+<div class="tool-buttons">
+  <a href="#Official-Data-and-Maps" class="btn btn-primary">Official Data and Maps</a> 
+  <a href="#fixme-tags" class="btn btn-secondary">FixMe Tags</a>
+  <a href="#open-infrastructure-map-nighttime-and-osmose" class="btn btn-secondary">Open Infrastructure Map </a>
+  <a href="#online-investigation" class="btn btn-secondary">Online Investigation</a>
+  <a href="#josm-powernetworktools-plugin" class="btn btn-secondary">PowerNetworkTools Plugin</a>
+  <a href="#validating-and-mapping-interconnectors" class="btn btn-secondary">Interconnectors</a>
+  <a href="#improve-osm-tags-with-ppm" class="btn btn-secondary">PowerPlantMatching </a>
+</div>
 
 ### <div class="tools-header">Official Data and Maps</div></h3>
 
@@ -199,7 +235,7 @@ The OpenData plugin will allow you to load all kinds of GIS formats directly int
 !!! note "OpenStreetMap and Verifiability"
       ⚠️ Please use these datasets as hint layers. Do not copy and paste data from these maps directly into OpenStreetMap. Each data point of the transmission network must be set manually and <a href="https://wiki.openstreetmap.org/wiki/Verifiability">verified</a> with official satellite data provided by the OpenStreetMap community.
 
-### <div class="tools-header"> Searching and solving fixme tags</div></h3>
+### <div class="tools-header">FixMe tags</div></h3>
 OpenStreetMap allows mappers to quickly mark an object that seems to be wrong and needs fixing using the [Key:fixme](https://wiki.openstreetmap.org/wiki/Key:fixme) tag. For example, you can write `fixme=wrong voltage` if you think the voltage on a line is incorrect, but you don't know the correct value. A small F will then be visible on the edge of the symbol to indicate the fixme tag. Stepping through all the `fixme` tags in a country is also a great way to search for errors in the grid that you can try to fix. We recommend using the `Todo` plugin for this.
 
 <div style="float: right; margin: 5px 0 20px 20px; width: 350px;">
@@ -212,7 +248,7 @@ OpenStreetMap allows mappers to quickly mark an object that seems to be wrong an
 3. In the Todo list window press `Add`.
 4. Once you have fixed an issue, please remove the `fixme` tag..
 
-### <div class="tools-header">Open Infrastructure Map - Nighttime Lights and Osmose </div></h3>
+### <div class="tools-header">Open Infrastructure Map - Nighttime and Osmose </div></h3>
 <div style="float: right; margin: 5px 0 20px 20px; width: 350px;">
     <img src="../images/openinfraosmose.jpg" class="img-border" alt="Open Infrastructure Map - Osmose">
     <figcaption class="image-caption">Open Infrastructure Map also includes the osmose issues in the grid as another layer.</figcaption>
@@ -265,7 +301,7 @@ Interconnectors between countries are essential to the functioning of the transm
 3. <p><strong>Explanation:</strong> The query finds nodes in your bounding box, detects their admin area (level 4 by default), and fetches all power infrastructure within it. You can adjust the “admin level” in the query (e.g. level 2 for national, level 6 for province) by editing the <code>admin_level</code> parameter in the download tab. A smaller bounding box is better (faster execution).</p>
 
 
-### <div class="tools-header">Improve OSM tags with PPM </div></h3>
+### <div class="tools-header">Improve OSM tags with PPM</div></h3>
 
 <a href="https://github.com/PyPSA/powerplantmatching" target="_blank">Powerplantmatching (PPM)</a> is a python repository designed to harmonize and combine power plant datasets from sources like OpenStreetMap (OSM) and Global Energy Monitor. It is widely used to prepare validated generation data for energy system models such as PyPSA-EUR. A new feature now fetches power plant data  from OSM and flags all <strong>power plants and generators that are rejected</strong> due to incomplete or inconsistent metadata. These include elements missing a <code>name</code>, <code>output:electrical</code>, <code>plant:method</code>, incorrect unit formats, among others.
 
