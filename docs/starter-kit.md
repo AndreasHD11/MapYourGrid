@@ -115,7 +115,7 @@ Our community is constantly investigating transmission lines that are suitable f
 1. The data should now automatically appear in JOSM. In the `Layer` window on the right handside you should see the `Data Layer`, which is automatically named with the country/region you pressed on. The ✅ on the left of the Data Layer should be visible, indicating that this is the active layer. All your edits in the main windows will now be part of this `Data Layer`. 
 1. Familiarize yourself with the grid data, click on the lines and substation to inspect the tags and memberships in the window in the right side. 
 
-!!! Warning
+!!! Warning "Risk of Double Mapping"
      Please bear in mind that you have only downloaded transmission grid data for the country, state or province that you selected. This includes power plants, generators, substations, power towers and transmission lines. Other OpenStreetMap objects, such as streets, will not be visible. **Therefore, never use our tools to map objects other than those loaded via Overpass, as otherwise other mappers will have to clean up the duplicate data.**
 
     Some cross-border transmission lines will still be visible beyond the pink administrative boundaries. However, to edit these, you will need to load both countries. Never map beyond the pink administrative boundaries, as this will most likely result in infrastructure being mapped twice.
