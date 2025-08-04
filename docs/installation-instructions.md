@@ -15,7 +15,7 @@ Running `josm-setup.exe` on Microsoft Windows performs the following:
 4. Adds uninstall data in the appropriate system locations
 
 ---
-If you are looking for further [instructions using the following link](https://josm.openstreetmap.de/wiki/Download#MSWindows)
+If you are looking for further [instructions using the following link](https://josm.openstreetmap.de/wiki/Download#MSWindows).
 
 ## <div class="tools-header">Linux (Ubuntu and Debian)</div>
 

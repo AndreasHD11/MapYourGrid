@@ -21,12 +21,12 @@ image: images/website/mapyourgrid-preview.jpg
         Map It📍
       </a>
       <a href="https://drive.google.com/file/d/1qzWIZ1Rq5s_DFfVhbZCS2a0-XZrez29A/view?usp=sharing" target="_blank" rel="noopener" class="btn btn-secondary">
-      One Pager 📄
+      At a Glance 📄
       </a>
     </div>
   </div>
   <div class="hero-content-right">
-    <img src="images/logos/MapYourGrid-logo.png" class="hero-logo off-glb">
+    <img src="images/logos/MapYourGrid-logo.webp" class="hero-logo off-glb">
   </div>
 </div>
 
@@ -48,7 +48,7 @@ image: images/website/mapyourgrid-preview.jpg
       <a href="https://www.nature.com/articles/s41597-025-04550-7" target="_blank" rel="noopener">open digital twin of the European grid</a>, but also to expand global transmission grid coverage in OSM from 70% to 98% by 2028. <strong>MapYourGrid enables this through training, multiple validation strategies, optimized open-source tools and community building.</strong></p>
 
   <a href="https://openinframap.org/#3.34/8.66/41.06/B,E,L,N,P" target="_blank">
-  <img src="images/openinframap_crop.png" alt="Grid Illustration" class="initiative-content" style="width: 120%; border: 4px solid #2a6d3c;">
+  <img src="images/openinframap_crop.jpg" alt="Grid Illustration" class="initiative-content" style="width: 120%; border: 4px solid #2a6d3c;">
   </a>
   <p>OpenStreetMap's already extensive data on the electrical grid can be browsed on <a href="https://openinframap.org/#3.34/8.66/41.06/B,E,L,N,P" target="_blank" rel="noopener">Open Infrastructure Map</a>, showing the global scale of data collected since 2008, mostly by volunteers.</p> 
   <p>A global community of citizen contributors creates and maintains data on the core infrastructures of our modern society. Let's empower the mappers!</p>
