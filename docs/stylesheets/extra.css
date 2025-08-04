@@ -764,6 +764,27 @@ aside.md-banner a>div {
   }
 }
 
+/* ----------------------------tools section smaller buttons-------------------------------*/
+@media (min-width: 769px) {
+  .tools-buttons-small {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    justify-content: left;
+    
+  }
+  .tools-buttons-small .btn {
+    flex: 0 0 auto;
+    max-width: 500px;
+    padding: 0.4rem 0.8rem; /* Thinner padding */
+    font-size: 0.8rem; /* Slightly smaller font */
+    min-width: 180px; /* Minimum width to prevent too narrow */
+    width: auto !important;
+    min-width: auto !important; 
+    max-width: none !important;
+  }
+}
+
 /* ----------------------------progress buttons are too big-------------------------------*/
 .progress-buttons {
   display: flex;
