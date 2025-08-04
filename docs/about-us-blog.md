@@ -1,5 +1,5 @@
 <div class="page-headers">
-<h1>Blog </h1>
+<h1>Blog & Team </h1>
 </div>
 
 
