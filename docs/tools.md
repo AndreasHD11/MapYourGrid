@@ -28,7 +28,7 @@ Please consider the following strategies and the associated processes as recomme
 
 ## <div class="stradegy-header">Pioneer Mapping Strategies and Tools</div></h3>
 
-<div class="tool-buttons">
+<div class="tools-buttons-small">
   <a href="#todo-plugin" class="btn btn-primary">Todo Plugin</a> 
   <a href="#map-fast" class="btn btn-secondary">Map Fast</a>
   <a href="#copy-coordinates-from-and-into-josm" class="btn btn-secondary">Coordinates and JOSM</a>
