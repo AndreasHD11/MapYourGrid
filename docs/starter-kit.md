@@ -17,9 +17,9 @@ We recommend JOSM generally, particularly for professional, large-scale grid map
 Get started by clicking on one of the OpenStreetMap editors:
 
 <div class="starter-kit-buttons">
-  <a href="#josm-starter-kit" class="btn btn-primary">JOSM Starter‑Kit – Large‑Scale Mapping</a> 
-  <a href="#id-starter-kit" class="btn btn-secondary">iD Starter‑Kit – Small‑Scale & Field Mapping</a>
-  <a href="#mapcomplete-starter-kit" class="btn btn-secondary">MapComplete Starter‑Kit – Missing Tags Mapping</a>
+  <a href="#josm-starter-kit" class="btn btn-primary">JOSM Starter‑Kit - Large‑Scale Mapping</a> 
+  <a href="#id-starter-kit" class="btn btn-secondary">iD Starter‑Kit - Small‑Scale & Field Mapping</a>
+  <a href="#mapcomplete-starter-kit" class="btn btn-secondary">MapComplete Starter‑Kit - Missing Tags Mapping</a>
 </div>
 
 
