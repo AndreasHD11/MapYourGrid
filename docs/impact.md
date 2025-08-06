@@ -503,12 +503,12 @@ For donors, researchers, and institutions that want to support open infrastructu
 - Highlight real-world examples where open data improved planning or disaster response.
 - Work closely with regional stakeholders and community mappers.
 - Fund training, peer review, and documentation improvements.
+- Understating the need for careful stewardship and legal awareness.
 
 **Avoid:**
 
 - Supporting mapping in high-conflict areas.
 - Treating openness as an all-or-nothing issue.
-- Understating the need for careful stewardship and legal awareness.
 
 ---
 
