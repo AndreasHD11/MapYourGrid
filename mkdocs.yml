@@ -57,6 +57,8 @@ extra:
     link: https://github.com/open-energy-transition/MapYourGrid
   - icon: fontawesome/brands/discord
     link: https://discord.gg/a5znpdFWfD
+  - icon: fontawesome/brands/youtube
+    link: https://www.youtube.com/@MapYourGrid
   image: images/MapYourGrid.ico
   social_preview: images/website/mapyourgrid-preview.jpg
 
